@@ -1,0 +1,65 @@
+GEOMETRY
+
+muchlarger volume than I wish to write. I desire rather to tell you
+in passing that this method, of which you have here an example, of sup-
+posing two equations to be of the same form in order to compare them
+term by term and so to obtain several equations from one. will apply
+to an infinity of other problems and is not the least important feature
+of my general method.¹¹⁶⁰¹
+
+I shall not give the constructions for the required tangents and nor-
+mals in connection with the method just explained, since it is always
+easy to find them, although it often requires some ingenuity to get short
+and simple methods of construction.
+
+¹¹⁶⁰] The method may be used to draw 3 normal to a curve from a given point,
+to draw a tangent to 3 curve from 3 point without, and to discover points of
+inflexion‚ maxima, and minima. Compare Descartes's Letters, cousin, Vol. VI,
+
+' t). 421. As an illustration. let it be required to find a point of inflexion on the
+
+first cubical parabola. Its equation is 31⁷²:an Assume that D is 3 point of
+inflexion‚ and let CD ΞΝ, AC Ξ x. PA z s, and ΑΕ Ξ r. Since triangle PAE is
+Υῇ-ὁ-Ξξ, whence xz's'vrrf. Substituting in
+
+ 
+
+similar to triangle PCD we have
+
+the equation of the curve, we have yg—ss-faaszo· But if D is a point of
+
+inflexion this equation must have three equal roots, since at 3 point of inflexion
+there are three coincident points of section. Compare the equation with
+
+3)ss — 36'372 ‘l- 36²3) — e⁷³ Ξ Ο.
+Then 3e² Ξ 0 and e Ξ 0. But e z 31, and therefore 37 z Ο. Therefore the point of
+inflexion is (0, 0). Rabuel, p. 321.
+
+,οε ΒΟ
+
+ΩΑ p
+
+It will be of interest to compare the method of drawing tangents given by
+Fermat in Methodics ad disquirendum maximam et minimam, Toulouse. 1679,
+which is as follows: It is required to draw 3 tangent to the parabola BD from a
+2
+
+point O without. From the nature of the parabola ff> {ti—{⁹ Since O is without the
+curve. But by similar triangles fg Ξ ξ-ΞΞ Therefore ffi>÷—I²Z. Let CE z a,
+O ” ’ b*
+
+d ί e > (VJ—ree) 2; whence
+
+de² —— Zade > — (1²6.
+
+ 
+
+Clze, and CD:d; then DIzd—e, and
+
+Dividing by e, we have de —Zczd > — (12. Now if the line ΒΟ becomes tangent to
+
+the curve, the point B and O coincide, ‹ie—Zadz—a2, and e vanishes; then
+2ad: α2 and a :Zd in length. That is CE z 2CD.
+
+112
+

@@ -1,0 +1,34 @@
+GEOM ETRY
+
+may b'e described in the following way: Drawing the two straight lines
+FA and AR (p. 11-1) intcrsecting at A under any angle, Ι 6110056 arbi-
+trarily a point F on one of them (more or less distant from A accord-
+ing as the Oval is to be large or small). With F as center Ι describe a
+circle cutting FA at a point a little beyond A, as at the point 5. Ι then
+draW the straight line 56⁸⁶* cutting AR at 6, so that Ass is less than Ab,
+and so that A& is to A5 in any given ratio, as, for example, that which
+measures the refracti(›11,[¹⁶²¹ if the oval is to be 11560 for dioptrics This
+being done, Ι take an arbitrary point G in the line FA on the same side
+as the point 5, 50 that AF is to GA in any given ratio. Next, along the
+line Ao Ι lay off RA equa] to GA, and with G as center and a radius
+equal to Ro Ι describe a circle. This circle will cut the first one in two
+points 1, l‚[²⁶³¹ through which the first of the required ovals must pass.
+
+Next, with F as center Ι describe a circle which cuts FA as little
+nearer to or farther from A than the point 5, as, for example, at the
+point 7. Ι then draw 78 parallel to 56 and with G as center and a radius
+equal to RS Ι describe another circle. This circle will cut the one
+through 7 in the points 1, 1³⁰⁴] which are points of the same oval. We
+can thus find as many points as may be desired, by drawing lines paral-
+lel to 78 and describing circles with F and G as centers.
+
+¹¹⁶¹] The confusion resulting from the use of Arabio figures to designate points
+is here apparent.
+
+[¹⁶²¹ That is. the ratio corresponding to the index of refraction.
+
+[¹⁶³¹ “Au point 1.”
+[¹⁶⁴¹ “Au point l.”
+
+116
+

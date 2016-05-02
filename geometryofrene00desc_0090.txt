@@ -1,0 +1,67 @@
+GEOMETRY
+
+a²m is e‘qual to 175² and the angle ILC is a right angle,¹¹¹⁰¹ in which case
+we get a circle instead of an ellipse.¹¹¹¹¹
+
+If the conic section is a parabola, its latus rectum is equal to ξ and
+
+its axis always lies along the line IL.¹¹¹²¹ To find its verteX‚ N, make
+am?
+
+IN equal to
+
+ 
+
+ΗΖ , so that the point Ι lies between L and N if νηὶ is posi—
+
+tive and os is positive; and L lies between I and N if m² is posi-
+tive and ox negative; and N lies between I and L if 112² is negative and
+ox positive. It is impossible that 772² should be negative when the terms
+are arranged as above. Finally, if m² is equal to zero, the points N and
+Ι must coincide. It is thus easy to determine this parabola, according
+to the first problem of the first book of Apollonius¹¹¹³¹.
+
+If, however, the required locus is a circle, an ellipse, or a hyper-
+
+bolaf¹¹⁴³ the point M, the center of the figure, must first be found. This
+
+¹ t ‘¹¹1⁰{,Rabuel (p. 167) adds “If a²mzps² or if mzp the hyperbola is equi-
+a era .
+
+[ω] In this case the triangle ILK is a right triangle, whence ΙᾼΚ2 = Πζῖ -l- Ι-(ΣἹΞ
+but by hypothesis IL ; IK ; KL:a ι ε ; n; then a2-l-n2122. Now the equa-
+tion of the curve is
+
+3¹:²⁷² - {ld-x ηιῗ-Ῑς-οΖ-Επῖ,
+and therefore the term in x2 is
+
+m
+<>
+
+’,ξ ¹2 2
+and if a²mz ῥεῖ’, then ᾖε ἒ, and this term in x2 becomes a *gn 2³:2³.
+
+Therefore, the coefficients of x2 and 322 are unity and the locus is a circle.
+¹¹¹²] This may be seen as follows: From the figure, and by the nature of the
+
+parabola {6²1 LN.p and LN z IL-l-IN. Let IN Σ φ; then since IL z ἐκ, we
+
+ 
+
+have LN z αῑχ-Ήφ and LC Ξ ,γ-υι-ΐ-φῑῖπη whence (y—712÷⁷—},r)2 z (ἕτ-ἱ-ΦΗ).
+But (3)- m-l- ἔτ’)’ὶ 1 771²-l-0x from the equation of the parab01a; therefore
+
+{xp -tcsz Ξ m2-l- ox. Equating coefficients‚ we have {p Ξ 0; p z ⁰{; φρ Ξ m²;
+
+‹Do—2- m2· Φ - &²2
+α ’ “ 02 ⁸
+[¹¹³¹ Apollonii Peryaeii Quae Graece exstant edidit Ι. L. Heiberg, Leipzig, 1891.
+Vol. Ι, p. 159, Liber Ι, Pron. LII. Hereafter referred to as Apollonius. This
+may be freely translated as follows: To describe in a plane a parabola, having
+given the parameter, the vertex, and the angle between an ordinate and the corre-
+sponding abscissa.
+[¹¹⁴¹ Central conics are thus grouped together by Descartes, the circle being
+treated as a special form of the ellipse, but being mentioned separately in all cases
+
+68
+

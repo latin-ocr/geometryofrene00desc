@@ -1,0 +1,49 @@
+SECOND BOOK
+
+εἳ = qv535'; but since v completely determines P, which is all that is
+
+required, it is not necessary to go further.
+
+11:41
+
+ε]
+
+In the same way, the second equation found abovefff· namely,
+
+3¹⁶- Zby⁵÷ (b² - 2cd-4- d²)y⁴÷ (4bcd—3d'2v)y³
+-l- (c'2d2 — 2b⁴³cd÷ (1¹²2ss — (ι’ἳε(2 )y‘·' — 2bc'2d2’y -1- [²⁶²c‘3d‘2,
+
+must have the sanie form as the expression obtained by inultiplying
+
+3'2—203402 by 37⁴÷f.v²÷„ss².v²÷l1³3'†k⁴‚
+
+that is, as
+,νῦ-Ρ(Ῑ-20)3’5-1-(92-3θΐ-Η2ΜἫ-(ῘΡ-ἳθψ-ἰ-θῗῗῌῧ
+†(k⁴—2eh³-‡-e2fs²)y2÷ (e2122—2ek⁴)31†e2k⁴.
+
+From these two equations‚ six others may be obtained, which serve to
+determine the six quantities f, gy, li, k, v, and s. It is easily seen that
+to whatever class the given curve may belong„ this method will always
+furnish just as many equations as we necessarily have unknown quan-
+tities. ln order to solve these equaffions, and ultimately to find v, which
+is the only value really wanted (the others being used only as means
+of finding v). we first determine f the first unknown in the above
+expression, from the second term. Thus, f=2e—-2b. Then in the last
+
+terms we can find k, the last unknown in the same expression, from
+
+[¹⁵⁴¹ That is. to construet PC we may lay off ΑΡ :v and join Ρ and C. If
+instead we use the value of e, taking C as center and a radius ΕΡ Ξ e. we con-
+struet an arc cutting AG in P, and join Ρ and C. Rabuel. ι). 309. To apnly
+Descartes's method to the circle. for example. it is only necessary to observe that
+all parameters and diameters are equal, that is, q Ξ r: and therefore the equation
+
+r l 1 l . . ⁷ ⁷,
+v ΞΝ-ἆγ-Ι-ἷν becomes v: :3 ([Ξῖ diameter. That is, the normal passes
+
+through the center and is a radius of the circle. Rabuel. p. 313.
+[¹³⁵¹ See page 99. As before. Descartes uses “second equation'' for “first meni-
+ber of the second equation.''
+
+107
+

@@ -1,0 +1,18 @@
+THIRD BOOK
+
+Now, when it is clear that the proposed problem is solid. whether
+the equation upon which its solution depends is of the fourth degree or
+only of the third. its roots can always be found by any one of the three
+conic sections, or even by some part of one of them, however small,
+together with only circles and straight lines. I shall content myself
+with giving here a general rule for finding them all by means of a para-
+bola, since that is in some respects the simplest of these curves.
+
+First, remove the second term of the proposed equation. if this is not
+already zero, thus reducing it to the form 3³ = ssapsssoeq. if the given
+equation is of the third degree, or 3⁴ = ssapz²ssa³qsssa³²n if it is of the
+
+fourth degree. By choosing α as the unit, the former may be written
+
+195
+

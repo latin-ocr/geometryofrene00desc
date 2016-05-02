@@ -1,0 +1,29 @@
+Table of Contents¹
+
+BOOK I
+
+PROBLEMS THE CONSTRUCTION OF wHICH REQUIRES ONLY STRAIGHT
+LINES ΛΝΒ CIRCLES
+
+How the calculations of arithmetic are related to the operations of geometry.. 297
+How multiplication, division, and the extraction of square root are performed
+
+geometrically ...................................................... 293
+How we use arithmetic symbols in geometry ............................... 299
+How we use equations in solving problems ................................. 300
+Plane problems and their solution ......................................... 302
+Example from pappus .................................................... 304
+Solution of the problern of Pappus ........................................ 307
+How we should choose the terms in arriving at the equation in this case ...... 310
+
+How we find that this problem is plane when not more than five lines are given 313
+
+1 It should be recalled that the first edition of this work appeared as a kind of
+appendix to the Discom‘s de [α Methode, and hence began on page 297. For con-
+venience of reference. the original paging has been retained in the facsimile. A
+new folio number, appropriate to the present edition, will also be found at the foot
+of each page. For convenience of reference to the original, this table of contents
+follows the paging of the 1637 edition.
+
+vi
+

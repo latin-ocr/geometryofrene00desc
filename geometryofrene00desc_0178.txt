@@ -1,0 +1,47 @@
+‹312031 ETRY
+
+a circle upon ΥΕ as diameter cutting the curve AD in D, and YD is
+then one of the required mean proportionals. The demonstration
+becomes obvious as soon as the instrument is applied to YD, since YA
+(or ΥΒ) is to YC as YC is to YD as YD is to YE.
+
+Similarly, to find four mean proportionals between YA and YG, or
+six between YA and YN, it is only necessary to draw the circle YFG,
+which determines by its intersection with AF the line YF, one of the
+four mean proportionals: or the circle YHN, which determines by its
+intersection with AH the line YH, one of the six mean pro‘portionals‚
+and so on.
+
+But the curve AD is of the second class. while it is possible to find
+two mean proportionals by the use of the conic sections, which are
+
+curves of the first class.¹¹'⁵¹I
+
+Again, four or six mean proportionals can
+be found by curves of lower classes than AF and ΑΗ respectively. It
+would therefore be a geoinetric error to use these curves. On the other
+hand. it would be a blunder to try vainly to construet 3 problem by
+means of 3 class of lines simpler than its nature allows.[¹⁸²¹
+
+Before giving the rules for the avoidance of both these errors, some
+general statements must be made concerning the nature of equations.
+An equation consists of several ternis, some known and some unknown,
+some of which are together equal to the rest: or rather, all of which
+taken together are equa] to nothing: for this is often the best form to
+
+consider.¹¹⁸³¹
+
+¹¹⁸¹] If we let ,r and 3* represent the two mean proportionals between a and b we
+have α : xzx : ,ν 1 ,ν ; b, whence 3² z (13oe 3¹² Ξ bx, and ,2¹3y z ab. Therefore
+x and 31 may be found by determining the intersections of two parabolas or of 3
+parabola and a hyperbola.
+
+[¹⁸²¹ Cf. Pamms, Book IV, Pron. 31, Vol. Ι, ῐ). 273. See also Guisnee, Applica-
+tion de l'Alyfibre α [α Οέωιιύίνῐσ, Paris, 1733. p. 28, and L'Hospital‚ Traitb Analyr-
+tique des Sections Coniques, Paris, 1707, p. 400.
+
+[¹⁸³¹ The advantage of this arrangement had been recognized by several writers
+before Descartes.
+
+156
+

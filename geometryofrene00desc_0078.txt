@@ -1,0 +1,62 @@
+CEO M ETRY
+
+If, ‘instead of one of these curves of the first class, there be used a
+curve of the second class lying in the plane CNKL, a curve of the third
+class will be described; while if one of the third class be used, one of
+the fourth class will be obtained, and so on to infinity.['³⁹¹ These state-
+ments are easily proved by actual calculation.
+
+Thus, no matter how we conceive a curve to be described. provided
+it be one of those which I have called geometric, it is always possible
+to find in this manner an equation determining all its points. Now Ι
+shall place curves whose equations are of the fourth degree in the same
+class with those whose equations are of the third degree; and those
+whose equations are of the sixth degree¹⁰⁰¹ ”
+
+11] the same class with those
+whose equations are of the fifth degree and similarly for the rest.
+
+This classification is based upon the fact that there is a general rule for
+reducing to a cubic any equation of the fourth degree, and to an equa—
+
+[92]
+
+[ω]
+
+tion of the fifth degree any equation of the sixth degree, so that the
+latter in each case need not be considered any more complex than the
+former.
+
+It should be observed‚ however, with regard to the curves of any
+one class, that while many of them are equally complex so that they
+may be employed to determine the same points and construet the same
+problems, yet there are certain simpler ones whose usefulness is more
+limited. Thus, among the curves of the first class, besides the ellipse.
+the hyperbola, and the parabola, which are equally complex, there is
+also found the circle. which is evidently a simpler curve: while among
+those of the second class we find the common conchoid‚ which is
+described by means of the circle, and some others which, though less
+
+1⁸⁰}Rabue1 (p. 125), illustrates this, substituting for the curve CNKL the semi-
+cubical parabola, and showing that the resulting equation is of the fifth degree.
+and therefore. according to Descartes, of the third class. Rabuel also gives (p. 119).
+a general method for finding the curve, no matter what figure is used for CNKL.
+Let GA za, KL: b, AB z x, CB :y and KB Ξ s:; then LB :es—b, and
+Asz-l—s-b Now GAzAchsszssL, or a:x†:—b:y:2—b,
+x3¹—l›3¹-l-czl)
+
+a — 3¹ ”
+
+This value of s is independent of the nature of the figure CNKL. But given
+any figure CNKL it is possible to obtain a second value for s from the nature of
+the curve. Equating these values of s we get the equation of the curve.
+
+[Μ’] ‘selles dont l'equation monte au quarre de cube.”
+
+[Μ] “Celles dont elle ne monte qu'au sursolide.'’
+¹⁰²¹ “Au sursolide.''
+
+whence z :-
+
+56
+

@@ -1,0 +1,52 @@
+FIRST BOOK
+
+ally the relations between these lines, until we find it possible to express
+a single quantity in two ways.[¹¹¹ This will constitute an equation‚ since
+the ternis of one of these two expressions aie together equa] to the
+terms of the other.
+
+We must find as many such equations as there are supposed to be
+unknown lines :¹¹²¹ but if, after considering everything involved, so many
+cannot be found, it is evident that the question is not entirely deter-
+mined. In such a case we may choose arbitrarily lines of known length
+for each unknown line to which there corresponds no equation.¹¹³¹
+
+If there are several equations‚ we must use each in order. either con-
+sidering it alone or comparing it with the others, so as to obtain a value
+for each of the unknown lines: and so we must combine them until
+there remains a single unknown linem which is equal to some known
+line, or whose square, cube, fourth power, fifth power, sixth power,
+etc., is equal to the sum or difference of two or more quantities,[¹⁵¹ one
+of which is known, while the others consist of mean proportionals
+between unity and this square, or cube, or fourth power, etc.. multiplied
+by other known lines. Ι may express this as follows:
+
+That is, z, which I take for the unknown quantity, is equal to b: or,
+the square of z is equal to the square of b diminished by α multiplied
+by 2,· or, the cube of z is equal to α multiplied by the square of ε, plus
+the square of b multiplied by z. diminished by the cube of c; and sim-
+ilarly for the others.
+
+[111 That is we must solve the resulting simultaneous equations.
+
+[¹²¹Van Schooten (p 149) gives two problems to illustrate this statement. Of
+these, the first is as follows: Given a line segment AB containing any point C,
+required to produce AB to D so that the rectangle AD. DE shall be equal to the
+square on CD. He lets AC— - a, CB z b, and BD— — a. Then AZR- - α —l— b -1- x,
+α — b ‘
+
+[¹³¹ Rabuel adds this note: “We may say that every indeterminate problem is an
+infinity of determinate problems or that every problem is determined either by
+itself or by him who constructs it'’ (p. 21).
+
+[1 ⁴¹That is a line represented by ,μ’ ,2r τ3, x* ..
+
+¹¹⁶] In the older French, ‘le quarre ou le cube ou le quarte de quarre ou le sur-
+solide‚ ou le quarre' de cube &c.‚’ as seen on page 11 (original page 302)
+
+and CD Ξ b —l- x, whence ax -l— bx-l-x2 z b2 ÷2b,2·†.2·2 and x z
+
+ 
+
+9
+

@@ -1,0 +1,40 @@
+TABLE OF CONTENTS
+
+How it is Dossible to make a lens as convex or concave as we wish, in one of
+its surfaces, which shall cause to converge in a given point all the rays
+which proceed from another given point ............................. 363
+
+How it is possible to make a lens which onerates like the preceding and such
+that the convexity of one of its surfaces shall have a given ratio to the
+convexity or concavity of the other .................................. 366
+
+How it is nossible to anoly what has been said here concerning curved lines
+described on a olane surface to those which are described in a space of
+three dimensions, or on a curved surface ............................. 368
+
+BOOK ΙΙΙ
+
+ΟΝ THE CONsrRUCTioN oF SOLID OR SUPERSOLID PROBLEMS
+
+On those curves which can be used in the construction of every problem ..... 369
+Example relating to the finding of several mean proportionals ............... 370
+On the nature of equations ............................................... 371
+How many roots each equation can have ................................... 372
+What are false roots ..................................................... 372
+How it is possible to lower the degree of an equation when one of the roots
+
+is known ......................................................... 372
+How to determine if any given quantity is a root ........................... 373
+How many true roots an equation may have ................................ 373
+How the false roots may become true, and the true roots false ................ 373
+How to increase or decrease the roots of an equation ....................... 374
+That by increasing the true roots we decrease the false ones, and vice versa.. 375
+How to remove the second term of an equation ............................. 376
+How to make the false 1oots true without making the true ones false ......... 377
+How to fill all the places of an equation ................................... 378
+How to multiply or divide the roots of an equation ......................... 379
+How to eliminate the fractions in an equation .............................. 379
+How to make the known quantity of any term of an equation equal to any
+
+given quantity ..................................................... 380
+

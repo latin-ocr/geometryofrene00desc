@@ -1,0 +1,54 @@
+GEOM ETRY
+
+enee there is between the roots; and when the points coincide, the roots
+are exactly equaL that is to say, the circle through C will touch the
+curve (ΞΕ at the point C without cutting it.
+
+Furthermore, it is to be observed that when an equation has two
+equal roots, its left-hand member must be similar in form to the expres-
+sion obtained by multiplying by itself the difference between the
+unknown quantity and a known quantity equal to it ;[¹⁵¹¹ and then, if the
+resulting expression is not of as high a degree as the original equation,
+multiplying it by another expression which will make it of the same
+degree. This last step makes the two expressions correspond term by
+term.
+
+For example, I say that the first equation found in the present dis-
+cussionJ²⁵²¹ namely
+a ψ φΨ-ἓᾳτψψᾳυῖ-ςῑὲ)
+
+q - 7'
+
+ 
+
+y
+
+must be of the same form as the expression obtained by making e=y
+and multiplying y—e by itself, that is, as y2—2ey—l—62. We may then
+compare the two expressions term by term, thus: Since the first term,
+
+[1⁵³1 qry—quys, of the first {S
+
+ 
+
+31², is the same in each, the second term,
+
+q—r
+
+equal to —Zey‚ the second term of the second; whence, solving for v,
+
+or PA, we have v=e—}e†}r; or, since we have assumed e equa] to y,
+1
+
+v=y—sy-}-3 r. In the same way, we can find s from the third term,
+
+01.thOE is. the left-hand member will be the souare of the binomial x-a
+when x Ξ α.
+
+[¹¹³²] See page 96. The original has “first equati0n‚’' not “first member of the
+equation.''
+
+[¹⁶⁸¹ That is, the second term in y.
+
+104
+

@@ -1,0 +1,50 @@
+SECOND BOOK
+
+The first of these products divided by d is equal to the second divided
+by e, whence it follows that PQ: PN=FP.CG: GP.CF=d: e,
+which was to be proved. This proof may be made to hold for the
+reflecting and refracting properties of any one of these ovals, by proper
+changes of the signs plus and minus: ancl as each can be investigated
+by the reader, there is no need for further discussion herem]
+
+It now becomes necessary for me to supplement the stateinents made
+in my Dioptrique¹¹⁷⁴¹ to the effect that lenses of various forms serve
+equally well to cause rays coming from the same point and passing
+through them to converge to another point3 and that among such lenses
+those which are convex on one side and concave on the other are more
+powerful burning-glasses than those which are convex on both sides;
+while, on the other hand, the latter make the better telescopes.[¹⁷⁵¹ I
+shall describe and explain only those which Ι believe to have the great-
+est practica] value‚ taking into consideration the difficulties of cutting.
+
+To complete the theory of the subject, I shall now have to describe
+
+[¹⁷³] To obtain the equation of the first oval we may proceed as follows: Let
+
+AF:c; AG:b; FC: c÷a; GCzb— {a Let CM:x‚ Asz. FMzc÷y;
+
+GM z b —- 31. Draw PC normal to the curve at any point C. Let ΑΡ z v. Then
+&⁴²²2 ffi²÷ ῗΝἶῖ. Also, εἳ -l-Zcz-l- 32 Ξ x² -1- c² -l-ch -l-y2, whence
+
+zz—c-l-lr W.
+
+Also, CC = CM²÷ &lx—³1², whence
+
+b2—2b—(53 4—{z2 Ξ x2-l-b2—2by-’s-y2.
+Substituting in this equation the value of 3 obtained above, squaring, and simplify-
+ing, we obtain:
+
+[(d2—e2)x2÷ (ατ-μηβ-Ἀρτεψῡᾱ2)3ι-2εε(εε-ι>ᾱ)]2
+z 4e2 (bd-P ec) ἰ’(,τ2 -1- c‘-' -1-263γ 43¹²). Rabuel, p. 348.
+
+¹¹⁷⁴1Descartes: La Dioptrique, published with Discom's de la Methode, Leyden,
+1637. See also Cousin‚ vol. HI, p. 401.
+
+[¹⁷⁵¹ “Lunetes.’' The laws of reflection were familiar to the geometers of the
+Platonic school, and burning—glasses. in the forrn of spherical glass shells filled with
+water, or balls of rock crystal are discussed bv Pliny, Hist⁴ Nat. xxxvi, 67 (25)
+and xxxvii, 10. Ptolemy, in his treatise on Optics, discussed reflection, refraction‚
+and plane and concave mirrors.
+
+135
+

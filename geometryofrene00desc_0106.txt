@@ -1,0 +1,35 @@
+GEOM ETRY
+
+Let ⁴ the required 111165 be AB, IH, ΕΤ), GF. and CA, and
+let it be required to find the point C, such that if CB, CF, CD, CH, and
+CM be drawn perpendicular respectiver to the given 111165, 1116 paral-
+lelepiped of the three 111165 CF, CD, and CH shall be equal to that 01
+1116 011161 two, CB and CM, and 3 third line AI. Let Css=y‚ Csz,
+ΑΙ 01 ΑΕ 01 GE=a; whence if C 1165 between AB and DE. we have
+CF=2a-3r, CD¹=a—3r‚ and CH=3r†a. Multiplying these three to-
+gether we get 313-20312-0331-1-203 equal to the product of the other
+three, namely to axy.
+
+I shall consider next the curve CEG which I imagine 10 be described
+by the 11116156611011 01 1116 parabola CKN (which is made to move so
+that its axis KL always lies along the straight line AB) with the ruler
+GL (which rotates about the point G in such a way that it constantly
+lies in the plane of the parabola and passes through the point L). I
+take KL equal to a and let the principal parameter, that 15, 1116 par-
+ameter corresponding 10 1116 axis 01 1116 given parabola, be also equal 10
+α, and let GA=20, CB or ΜΔΖ-11, CM 01 Asszx. Since the triangles
+GMC and CBL are similar, GM (or 2a—3v) is to MC (or x) as CB
+
+(or y) is to BL, which is therefore equal to {g} . Since KL is a, ΒΚ
+. xy 2a2—ay-xy . .- . , .
+15 a—-Za -y or Za—y . Fmally‚ 511166 11115 531116 Bk 15 3 segment
+
+of the axis of the parabola, ΒΚ 15 10 BC (its ordinate) 35 BC 15 10 α
+
+ 
+
+(1116 131115 rectum), whence we get 31³—2ajv'2-a231—4-2cffizc1xy, and there-⁴
+fore C is the required point.
+
+84
+

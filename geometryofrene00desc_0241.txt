@@ -1,0 +1,32 @@
+THIRD BOOK
+
+portionals are to be found between two given lines, and one in which
+two points are to be found which divide a given arc into three equa]
+parts. Inasmuch as the curvature of a circle depends only upon a sim-
+ple relation between the center and all points on the circumference. the
+circle can only be used to determine a single point between two
+extremes, as, for example, to find one mean proportional between two
+given lines or to bisect a given arc; while, on the other hand, since
+the curvature of the conic sections always depends upon two different
+things.¹²⁴³¹ it can be used to determine two different points.
+
+For a similar reason. it is impossible that any problem of degree more
+complex than the solid, involving the finding of four mean proportion-
+als or the division of an angle into five equal parts, can be constructed
+by the use of one of the conic sections.
+
+Ι therefore believe that I shall have accomplished all that is possible
+when I have given a general rule for constructing problems by means
+of the curve described by the intersection of a parabola and a straight
+line, as previously explained ;[²⁴⁴³ for I am convinced that there is noth-
+ing of a simpler nature that will serve this purpose. You have seen,
+too, that this curve directly follows the conic sections in that question
+to which the ancients devoted so much attention, and whose solution
+presents in order all the curves that should be received into geometry.
+
+[ms] As, for example, the distance of any point from the two foci. ¹Descartes
+does not say “all points on the circumference‚'’ but “tontes ses parties.’'
+[²⁴⁴] See page 84.
+
+219
+

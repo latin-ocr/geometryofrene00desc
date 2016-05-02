@@ -1,0 +1,55 @@
+FI RST BOOK
+
+And if the circle described about N and passing through L neither
+cuts nor touches the line MQR, the equation has no root, so that we
+may say that the construction ot' the problem is impossible.
+
+These same roots can be found by many other 1nethods;[²‘³¹ I have
+given these very simple ones to show that it is possible to construet
+all the problems of ordinary geometry by doing no more than the little
+covered in the four figures that I have explainetl.[²“¹ This is one thing
+which l believe the ancient mathematicians did not observe, for other-
+wise they would not have put so much labor into writing so many books
+in which the very sequence of the propositions shows that they did not
+have a sure method of finding all.[²⁷1 but rather gathered together those
+propositions on which they had happened by accident.
+
+This is also evident from what Pappus has done in the beginning of
+his seventh book,[²⁵‘¹ where, after devoting considerable space to an
+enumeration of the books on geometry written by his predecessors,¹²⁹¹
+he finally refers to a question which he says that neither Euclid nor
+Apollonius nor any one else had been able to solve completely ξω] and
+these are his words:
+
+“Quem autem dicit (Apollonius) in tertio libro locum ad tres, &-
+quatuor lineas ab Euclide perfectum non esse, neque ipse perficere
+
+poterat, neque aliquis alinsl: sed neque paululum qnid addere iis, quse
+
+[²⁵¹ For interesting contraction, see Rabueh p. 23, et seo.
+
+1²⁶¹It will be seen that Descartes considers only three types of the quadratic
+equation in s, nanssely. 32163»- b2 Ξ Ο, 32 —— a: — b2' z Ο, and 32 —- (ις-1- b2 z Ο.
+It thus appears that he has not been able to free himself from the old traditions
+to the extent of generalizing the meaning of the coefficients, —— as negative and
+fractional as well as positive. He does not consider the type 3²-l-az†b²:O‚
+because it has no positive roots. 7
+
+[Ἦ] “Qu'ils n’ont point eu la vraye methode pour les trouuer toutes.’'
+
+¹²⁸¹ See Note [9].
+
+1²⁹] See Papous, Vol. ΙΙ, p. 637. Pappus here gives a list of books that treat
+of analysis, in the following words: “Illorum librorum, quibus de loco, ἀναλυόμενος
+sive resoluto agitur, ordo hic est. Euclidis datorum liber unus. Apollonii de pro-
+portionis sectione libri duo, de spatii sectione duo. de sectione determinata duo. de
+tactionibus duo, Euclidis porismatum libri tres. Apollonii inclinationum libri duo,
+eiusdem locorum planorum duo. conicorum octo, Aristaei locorum solidorum libri
+duO.’' See also the Commandinus edition of Pappus, l66O edition, pp. 240-252.
+
+[³⁰¹ For the historv of this problem„ see Zeuthen: Die Lchre vonr den Keyel—
+sclmitten im Alterthmn, Copenhagen, 1886. Also, Adam and Tannery‚ Oeuvres de
+
+Descartes, vol. 6, p. 723.
+17
+

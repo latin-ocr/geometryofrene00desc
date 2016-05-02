@@ -1,0 +1,45 @@
+FIRST BOOK
+
+either ,ι’ 01· y will be of only the second degree in the equation, so that
+
+the point C can be found with ruler and compasses.
+
+On the other hand, if the given lines are all parallel even though a
+question should be proposed involving only five lines„ the point C can-
+not be found in this way. For, since the quantity ‚v does not occur at
+all in the equation‚ it is no longer allowable to give a known value to y.
+It is then necessary to find the value of yffi] And since the term in y
+will now be of the third degree. its value can be found only by finding
+the root of a cubic equation, which cannot in general be done without
+
+the use of one of the conic sections.¹⁵⁶¹
+
+And furfflermore, if not more than nine lines are given, not all of
+them being parallel, the equation can always be so expressed as to be
+of degree not higher than the fourth. Such equations can always be
+solved by means of the conic sections in a way that Ι shall presently
+explai11.[⁵⁷¹
+
+Again‚ if there are not more than thirteen lines, an equation of degree
+not higher than the sixth can be employed, which admits of solution by
+means of a curve just one* degree higher than the conic sections by a
+
+method to be explained presently.¹⁵⁸¹
+
+This completes the first part of what I have to demonstrate here, but
+it is necessary, before passing to the second part, to make some general
+
+statements concerning the nature of curved lines.
+
+¹⁵⁵] That is, to solve the equation for 3¹.
+
+[⁵'³¹ See page 84.
+
+¹³⁷¹ See page 107.
+
+[⁵⁵³] This line of reasoning may be extended indefinitely. Briefly, it means that
+for every two lines introduced the equation becomes one degree higher and the
+curve becomes correspondingly more complex.
+
+37
+

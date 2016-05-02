@@ -1,0 +1,60 @@
+THIRD BOOK
+
+⁹ 4
+
+preceding equation are ζ, 1 and ἶ, and those of the first equation are
+Ξ wlff, ὲ x} and ξ <ff
+
+This method can also be used to make the known quantity of any
+term equal to a given quantity. Thus. given the equation
+
+x³ — b2x-1- c3 = O,
+
+let it be required to write an equation in which the coefficient of the
+third terr11.¹²⁰‘³I namely 12², shall be replaced by Sa? Let
+
+ 
+
+ 
+
+y :.1<Nl3b‘}‘
+and we have „
+31³ — 3a‘2y —l- 3ἶῖίῦ Χῖ = Ο.
+
+Neither the true nor the false roots are always real: sometimes
+they are i1naginary3²⁰³ that is. while we can always conceive of as many
+roots for each equation as I have already assig11e‹1.¹²⁰⁸¹ yet there is not
+always a definite quantity corresponding to each root so conceived of.
+Thus, while we may conceive of the equation .1·“'—(]x‘²—†—l3‚r—lO=O
+as having three roots. yet there is only one real root, 2. while the other
+two, however we may increase, diminish‚ or multiply them in accord-
+ance with the rules just laid down. remain always imaginary.
+
+XVhen the construction of a problem involves the solution of an
+equation in which the unknown quantity has three di1nensi0ns.¹²“⁰³ the
+following steps must be taken:
+
+First, if the equation contains some fractional coefficients,[²¹⁰¹ change
+them to whole numbers by the method explained above ς12111 if it con-
+
+s²⁰⁶¹ Descartes wrote this equation x * μῦἶῃ--ῧ-ΓἿ 00 Ο, the star showing, as
+explained on page 163, that a term is missing. Hence. he speaks of —ls-‘x as the
+third term.
+
+1²⁰⁷]“Mais quelquefois seulement i1naginaires.'' This is a rather interesting
+classification, signifying that we mav have owsitivc and negative roots that are
+imaginary. The use of the word “imaginary'' in this sense begins here.
+
+¹²⁰³] This seems to indicate that Descartes realized the fact that an equation of
+the nth ,degree has exactly n roots. Cf. Cantor, Vol. II(l ), 1). 724.
+
+[²⁰⁹] That is. a cubic equation.
+
+[²¹⁰¹ “Nornbres rompues.” the “numeri fracti'' of the medieval Latin writers and
+“numeri rotti‘’ of the Italians. The expression “broken numbers'' was often used
+by early English writers.
+
+1²¹¹]That is. transform the equation into one having integral coefficients.
+
+175
+

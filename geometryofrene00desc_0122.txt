@@ -1,0 +1,52 @@
+GEO M ETRY
+
+left the square of CM, or {2²—ZTbCZ-4—2by-y2. Again, taking the
+
+square of FM from the square of FC we have the square of CM
+expressed in another way, namely: 5²†2c3—2cy—y². These two expres-
+sions being equal they will yield the value of y or MA, which is
+
+d²z²÷2cd²q—e²z²÷2bdez
+2bd²÷2cd2 '
+
+ 
+
+Substituting this value for y in the expression for the square of CM,
+
+we have
+ἓ-ΜΞ ,- bd²2²—}—ce²2²—l—2bcd²z-Zbcdez*—
+“ bd²÷cd²
+
+ 
+
+.νῖ-
+
+If now we suppose the line PC to meet the curve at right angles at C,
+and let PC=s and PA=v as before, PM is equal to v—y: and since
+PCM is a right triangle, we have s2—zf22f2vv—m2 for the souare of
+CM. Substituting for N its value, and equating the values of the square
+of CM, we have
+
+2bcd²2 — Zbcdez — ch2112— Zbdevz— bd²s² -†- ba'2v‘2 —cd²s² ÷cd²v² — Ο
+bd²†ce²÷e²v—d²v ’-
+
+ 
+
+2²4-
+
+for the required equation.
+
+Such an equation having been found¹¹⁴⁹¹ it is to be used, not to deter-
+mine x, ν, or 2, which are known, since the point C is given, but to
+find v or s, which determine the required point P. With this in view,
+observe that if the point P fulfills the required conditions, the circle
+about P as center and passing through the point C will touch but not
+eut the curve CE: but if this point P be ever so little nearer to or far-
+
+ther from A than it should be, this circle must eut the curve not only
+
+¹¹⁴⁹] Three such equations have been found by Descartes, namely those for the
+ellipse, the parabolic conchoid‚ and the curve Just described.
+
+100
+

@@ -1,0 +1,66 @@
+FIRST BOOK
+
+as extracting the square root, cube root. etc.‚ of the given line.[³¹ And
+Ι shall not hesitate to introduce these arithmetical terms into geometry‚
+for the sake of greater clearnesS.
+
+For example, let AB be taken as unity, and let it be required
+to multiply BD by BC. Ι have only to join the points A and C, and
+draw DE parallel to CA; then BE is the product of BD and BC.
+
+If it be required to divide BE by BD, I join E and D, and draw AC
+parallel to DE; then BC is the result of the division.
+
+If the square root ot' GH is desired, I add. along the same
+straight line, FG equal to unity; then, bisecting FH at K, Ι describe
+the circle FIH about K as a center, and draw from G a perpendicular
+and extend it to Ι, and GI is the required root. I do not speak here ot*
+cube root, or other roots, since Ι shall speak more conveniently of them
+later.
+
+Osten it is not necessary thus to draw the lines on paper. but it is
+sufficient to designate each by a single letter. Thus, to add the lines
+BD and GH, Ι call one a and the other b, and write α -Ι- b. Then α —b
+
+will indicate that b is subtracted from a: ab that α ἱ5 multiplied by b,-
+
+Ξ that α is divided by b‚· aa or α2 that α is multiplied by itself: <1³ that
+
+this result is multiplied by a, and so on. indefinitely.[⁴¹ Again, if I wish
+
+ 
+
+to extract the square root of a2—l—b2‘, Ι write vahl—b& if Ι wish to
+
+ 
+
+ 
+
+extract the cube root of 03—b3—l—c1b2, Ι write xsssffl—bss—l—abf, and sirn-
+ilarly for other roots.[⁶¹ Here it must be observed that by αἲ, b3, and
+similar expressions, Ι ordinarily mean only simple lines, which, how-
+’ ever, Ι name squares, cubes, etc.‚ so that Ι may make use of the terms
+employed in algebra.1⁶¹
+
+[³¹ While in arithmetic the only exact roots obtainable are those of perfect
+powers. in geometry a length can be found which will represent exactly the square
+root of a given line, even though this line be not commensurable with unity. Of
+other roots, Descartes speaks later.
+
+1⁴¹Descartes uses (1³, a4. αὖ, ast. and so on. to represent the respective powers
+of α, but he uses both aa and α2 without distinction. For example, he often has
+
+30²
+
+aabb, but he also uses {br-2.
+
+¹⁶¹ Descartes writes: §Cast —bss-l-abb. See original, page 299. line 9.
+
+[θ] At the time this was written, 0² was commonly considered to mean the sur-
+face of a square whose side is a, and b³ to mean the volume of a cube whose side
+is b,· while b4, b⁵, were unintelligible as geometric forms. Descartes here says
+that α2 does not have this meaning, but means the line obtained by constructing a
+third proportional to 1 and α, and so on.
+
+5
+

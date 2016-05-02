@@ -1,0 +1,52 @@
+THIRD BOOK
+
+roots that were true are merely imaginary. and the only real root is the
+one previously false. which according to Cardan’s rule is
+
+d}q†xs}q²-217p³ ψ ἦχὲφ-χχὲ 9²-217p3-
+
+Furthermore it should be remarked that this method of expressing the
+
+ 
+
+ 
+
+ 
+
+roots by means of the relations-which they bear to the sides of certain
+
+[²⁴⁰] ⁸
+
+cubes whose contents only are known is in no respect clearer or
+simpler than the method of expressing them by means of the relations
+which they bear to the chords of certain arcs (or portions of circles)‚
+when arcs three times as long are known. And the roots of the cubic
+equations which cannot be solved by Cardan's method can be expressed
+as clearly as any others, or more clearly than the others. by the method
+given here.
+
+For example. grant that we may consider a root of the equation
+
+2³ = —qz÷p known, because we know that it is the sum of two lines
+
+of which one is the side of a cube whose volume is ὲ) q increased by the
+
+side of a square whose area is ᾗ q²— ᾗ 15³, and the other is the side of
+
+another cube whose volume is the difference between ὲ q and the side
+
+of a square whose area is ὲ q2- 31—7253. This is as much knowledge of
+
+the roots as is furnis-hed by Cardan's method. There is no doubt that
+the value of the root of the equation z³= ψέγε-ρ is quite as well
+known and as clearly conceived when it is considered as the length of a
+
+chord inscribed in a circle of radius xl} and subtending an arc that
+
+is one-third the arc subtended by a chord of length δέ.
+
+[²⁴⁰¹ Descartes here makes use of the geometrical conception of finding the cube
+root of a given quantity.
+
+215
+

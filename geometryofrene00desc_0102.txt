@@ -1,0 +1,28 @@
+G EO M ETRY
+
+ditioii is wanting, the other conditions being such that (as in this exam-
+ple) all the points of a single line will satisfy them. If the line is
+straight or circular, it is said to be a plane locus ; but if it is a parabola.
+a hyperbola, or an ellipse. it is called a solid locus. In every such case
+an equation can be obtained containing two unknown quantities and
+entirely analogous to those found above. If the curve up'on which the
+required point lies is of higher degree than the conic sections, it may
+
+[125]
+
+be called in the same way a supersolid locus, and so on for other
+cases. If two conditions for the determination of the pointhare lacking,
+the locus of the point is a surface, which may be plane. spherical, or
+more complex. The ancients attempted nothing beyond the composition
+of solid loci, and it would appear that the sole aim of Apollonius in his
+treatise on the conic sections was the solution of problems of solid loci.
+
+Ι have shown, further, that what Ι have termed the first class of
+curves contains no others besides the circle, the parabola, the hyperbola‚
+
+and the ellipse. This is what Ι undertook to prove.
+
+¹¹⁹⁵] “Un lieu sursolide.''
+
+80
+

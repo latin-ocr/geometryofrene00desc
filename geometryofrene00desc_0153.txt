@@ -1,0 +1,34 @@
+SECOND BOOK
+
+I must not, however, fail to prove the statements already made. For
+this purpose, take any point C on the first part of the first oval, and
+draw the straight line CP normal to the curve at C. This can be done
+by the method given above,[¹⁷¹¹ as follows:
+
+Let AG=b, AF=c‚ FC=c-{—z. Suppose the ratio of d to e, which
+Ι always take here to measure the refractive power of the lens under
+consideration, to represent the ratio of AS to Ao or similar lines used
+to describe the oval. Then
+
+GC=b-{,2‚
+
+whence
+- bcd‘2 — bede -1- &dez ÷ce²2
+
+Ap„ bde÷cd²÷d²2—e²2 ⁸
+
+ 
+
+From P draw ΡΩ perpendicular to FC, aud ΡΝ perpendicular to GC.¹¹⁷²¹
+Now if ΡΩ 2 PN=d: e, that is, if PQ: ΡΝ is equal to the same
+ratio as that between the lines which measure ‘the refraction of the
+convex glass AC, ‘then a ray passing from F to C must be refraeted
+
+toward G upon entering the glass. This follows at once from dioptrics.
+
+¹¹⁷¹¹ See a e 115.
+Ι [¹⁷²¹ Hercle) {Q is the sine of the angle of incidence and PN is the sine of the
+angle of refraction. The ray FC is reflected along CG.
+
+131
+

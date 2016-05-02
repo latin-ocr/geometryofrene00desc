@@ -1,0 +1,41 @@
+SECOND BOOK
+
+the angle ILC is a right angle, it follows that the curve NC is a circle.
+A similar treatment of any of the other cases offers no difficulty.
+
+Since all equations of degree not higher than the second are included
+in the discussion just given, not only is the problem of the ancients
+relating to three or four lin'es completely solved, but also the whole
+problem of what they called the composition of solid loci, and conse-
+quently that of plane loci‚‘since they are included under solid loci.[¹²⁴¹
+For the solution of any one of these problems of loci is nothing more
+than the finding of a point for whose complete determination one con-
+
+¹¹²⁴1 Since plane loci are degenerate cases οἱ solid loci. The case in which
+neither x² nor y2 but only ,ῃ occurs, and the case in which a constant term occurs,
+
+are omitted by Descartes The various kinds of solid loci represented oy the equa-
+
+ 
+
+2
+tion 2 z ss m- 4· {nl-x ‘'- ⁷¹— ’.ἒ xfss m² “- 02 ssfflx may be summarized as follows:
+
+(1) If all the terms of the right member are zero except ἴ the equation repre-
+
+sents an hyperbola referred to its asymptotes. (2) If Τ is not present, there are
+
+several cases, as follows: (a) If the quantity under the radical sign is zero or a
+
+q perfect square, the equation represents a straight line: (b) If this quantity is not
+
+1)
+
+a perfect square and if ἦ ,2τ zo, the equation represents a parabola; (c) If it is
+
+not a perfect souare and if ξι x2 is negative the equation represents a ircle or an
+
+ellipse; (d) If ἐμ is positive, the equation represents a hyperbole.. Rabue1‚p.248.
+
+79
+

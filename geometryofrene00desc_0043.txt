@@ -1,0 +1,59 @@
+FIRST BOO K
+
+quoniam non est aliquid contentzun pluribus quom tribus dimensioni-
+bus.” ¹³³¹
+
+Here I beg you to observe in passing that the considerations that
+forced ancient writers to use arithmetical ternis in geometry‚ thus mak-
+ing it impossible for them to proceed beyond a point where they could
+see clearly the relation between the two subjects, caused much obscur-
+ity and embarrassment, in their attempts at explanation.
+
+Pappus proceeds as follows:
+
+“Aequiescunt autem his, qui paulo onte talia interpretati sun-t: neque
+unum aliquo pacto comprehensibile significantes quod his continetur.
+Licebit autem per conjunctos proportiones licec, ὅ dicere ὅθ demonstrare
+universe in dictis proportionibus, atque his in hunc moduni. Si ab
+aliquo puncto od positione datas rectos lineas ducantur rectce linece in
+dotis onyulis, ὃ dota sit proportio conjuncta ex eo, quani habet una
+ductarmn od unam, ὅ altero ad alteram, ἔτ alio od aliam, ὅ reliqua ad
+datam lineam, si sint septem: si vero octo, δὲ’ reliqua od reliquam:
+punctum continyet positione datas lineas. Et similiter quotcumque sint
+
+¹³³¹ This may be somewhat freely translated as follows: “The problem of the
+locus related to three or four lines, about which he (Apollonius) boasts so proudly,
+giving no credit to the writer who has preceded him, is of this nature: If three
+straight lines are given in position, and if straight lines be drawn from one and
+the same point, making given angles with the three given lines; and if there be
+given the ratio of the rectangle contained by two of the lines so drawn to the
+square of the other, the point lies on a solid locus given in position, namely, one
+of the three conic sections.
+
+“Again, if lines be drawn making given angles with four'straight lines given
+in position, and if the rectangle of two of the lines so drawn bears a given ratio
+to the rectangle of the other two; then, in like manner, the point lies on a conic
+Section given in position. It has been shown that to only two lines there corre-
+sponds a plane locus. But if there be given more than four lines, the point gen-
+erates loci not known up to the present time (that is. impossible to determine by
+common methods), but merely called ‘lines'. It is not clear what they are, or
+what their properties. One of them, not the first but the most manifest, has been
+examined‚ and this has proved to be helpful. (Paul Tannery‚ in the Oeuvres de
+Descartes, differs with Descartes in his translation of Pappus. He translates as
+follows: Et on n'a fait la synthese d' aucune de ces lignes, ni montre qu‘elle servit
+pour ces licuit, pas meme pour celle qui semblerait la premiere et la plus indique‘e.)
+These, however, are the propositions concerning them.
+
+“If from any point straight lines be drawn making given angles with five
+straight lines given in position, and if the solid rectangular parallelepiped contained
+by three of the lines so drawn bears a given ratio to the solid rectangular paral-
+lelepiped contained by the other two and any given line whatever, the point lies
+on a ‘line’ given in position. Again, if there be six lines, and if the solid con-
+tained by three of the lines bears a given ratio to the solid contained by the other
+three lines, the point also lies on a ‘line’ given in position. But if there be more
+than six lines, we cannot say whether a ratio of something contained by four
+lines is given to that which is contained by the rest, since there is no figure of
+more than three dimensions.''
+
+21
+

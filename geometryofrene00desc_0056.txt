@@ -1,0 +1,41 @@
+GEOM ETRY
+
+Furthermore‚ to determine the point C, but one condition is needed,
+namely, that the product of a certain number of lines shall be equal to,
+or (what is quite as simple). shall bear a given ratio to the product of
+certain other lines. Since this condition can be expressed by 3 single
+equation in two unknown qiiantities‚[³²¹ we may give any value we please
+to either ,v or 3¹ and find the value of the other from this equation. It
+is obvious that when not more than five lines are given, the quantity x,
+which is not used to express the first of the lines can never be of degree
+
+higher than the second.[‘''³l
+
+Assigning 3 value to 3¹, we have x²= ss ax 5¹: b‘·', and therefore ,τ
+can be found with ruler and compasses. by a method already explained.¹⁵⁴]
+If then we should take successively an infinite number of different
+values for the line y, we should obtain an infinite number of values for
+the line x, and therefore an infinity of different points, such as C, by
+means of which the required curve could be drawn.
+
+This method can be used when the problem concerns six or more
+
+lines, if some of them are parallel to either AB or BC, in which case
+
+[δ’-’1 That is, an indeterminate equation. “De plus, 3 cause que pour determinex⁴
+le point C, il n'y a qu'une seule condition qui soit requise, 3 scavoir que ce qui est
+produit par la multiplication d'un certain nombre (le ces lignes soit egal, ou (ce qui
+n'est de rien plus mal-aise') ait la proportion donnee, 3 ce qui est produit par la
+multiplication des autres: on peut prendre a discretiori l'une des deux quantitez
+inconnue's ,τ 011 y, ἃ chercher l'autre Dar cette Equaiion.” Such variations in the
+texts of different editions are of 110 moment, but arc occasionally introduced as
+matters of interest. “
+
+¹⁵³¹ Since the Droduct of three lines bears 3 given ratio to the Droduct of two
+others and a given line, 110 term can be of higher degree than the third. and there-
+fore, than the second in x.
+
+¹⁵⁴¹ See pages 13, et seq.
+
+34
+

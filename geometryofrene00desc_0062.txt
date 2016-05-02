@@ -1,0 +1,48 @@
+Geometry
+Boot< H
+
+ΟΝ THE NATURE oF CURVED LINEs
+
+HE ancients were familiar with the fact that the problems of geom-
+
+etry may be divided into three classes, namely. plane. solid, and linear
+problems.¹⁵⁹¹ This is equivalent to saying that some problems require
+only circles and straight lines for their construction, while others
+require 3 conic section and still others require more complex curves.¹⁴³‘’¹
+I am surprised, however, that they did not go further, and distinguish
+between different degrees of these more complex curves. nor do Ι see
+why they called the latter mechanical, rather than geometrical.¹⁶¹¹
+If we say that they are called mechanica] because some sort of instru-
+mentum has to be used to describe them, then we must, to be consistent,
+
+¹⁵⁰³ Cf. Pappus, Vol. I, p. 55, Proposition 5, Book HI: “The ancients consid-
+ered three classes of geometric problems. which they called plane, solid, and linear.
+Those which can be solved by means of straight lines and circumferences of circles
+are called plane problems, since the lines or curves by which they are solved have
+their origin in a plane. But problems whose solutions are obtained by the use of
+one or more of the conic sections are called solid problems, for the surfaces of solid
+figures (conical surfaces) have to be used. There remains a third class which is
+called linear because other *lines' than those Ι have Just described, having diverse
+and more involved origins‚ are required for their construction. Such lines are the
+spirals, the quadmtrix, the conchoid, and the cissoid, all of which have many impor-
+tant properties.'’ See also Pappus, Vol. Ι, p. 271.
+
+10⁰]Rabuel (p. 92) suggests dividing problems into classes, the first class to
+include all problems that can be constructed by means of straight lines. that is,
+curves whose equations are of the first degree; the second. those that require curves
+whose equations are of the second degree, namely, the circle and the conic sec-
+tions. and so on.
+
+[⁰¹¹ Cf. Encxclopddie οιι Dictiomzaire Raisonnff des Sciences, des Arts et des
+Aleticrs, par une Socic'tff de glens de lettres, mis <³11 ordre et publides par M. Diderot,
+et quant ἀ {a Partie Matlzematiqne svm· M. d'r-llenzbert, Lausanne and Berne: 1780.
+In substance as follows: “Meclzanical is 3 mathematical term designating 3 con-
+struction not geometric, that is, that cannot be accomplished by geometric curves
+Such are constructions depending upon the quadrature of the circle.
+
+The term, mechanical curve. was used by Descartes to designate a curve that
+cannot be expressed by an algebraic equation.” Leibniz and others call them
+transcendental.
+
+¹⁰²¹ “Machine.” 4
+

@@ -1,0 +1,47 @@
+GEOMETRY
+
+the point N will be the vertex of this diameter.¹¹²⁸¹ It is then a simple
+
+matter to determine the curve. according to the second and third prob-
+
+[1191
+
+lems of the first book of Apollonius.
+
+[120]
+
+When the locus is a hyperbola and m² is positive, if 0² is equal to
+
+zero or less than 4pm we must draw the line MOP from the center M
+parallel to LC, and draw (ΞΡ parallel to LM, and take ΜΟ equal to
+
+ 
+
+while if ox is equal to zero, ΜΟ must be taken equal to m. Then con-
+sidering O as the vertex of this hyperbola, the diameter being ΟΡ and
+
+the line applied in order being (ΞΡ, its latus rectum is
+xl-lcflnfl (1⁴o'2m3
+p²3⁴ “ p³z⁴¹ '
+
+Nl41m2- Q
+Ρ
+
+[¹¹⁸] If the equation contains -m2 and -l-nx, then „2 must be greater than
+4ml1, otherwise the problem is impossible.
+
+[¹¹⁹¹ Cf. Apollonius, Vol. I, p. 173, Lib. 1, Prop. LV: To describe a hyperbola,
+given the axis, the verteX‚ the parameter, and the angle between the axes. Also
+see Prop. LVI: To describe an ellipse, etc.
+
+[²²⁰¹ Cf. Letters of Descartes, Cousin, Vol. VIII, p. 142.
+[¹²¹¹ ‘'Cnte traversant.''
+
+ 
+
+and its dia1neter[¹²¹1 is
+
+ 
+
+72
+

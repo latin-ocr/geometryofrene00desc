@@ -1,0 +1,41 @@
+FI RST BOOK
+
+such that the product of certain of them is equa] to the product of the
+rest, 01 31 least such that these two products shall have a given ratio,
+for this condition does not make the problem any more difficult.
+
+First, Ι suppose the thing done. and since so many lines are confus-
+ing, Ι may simplify matters by considering one of'the given lines and
+one of those to be drawn (as, for example, AB and BC) as the prin-
+cipal lines, to which 1 shall try to refer all the others. Call the segment
+of the line AB between A and* B. x, and call BC, y. Produce all the
+other given lines to meet these two (also produced if necessary) pro-
+vided none is parallel to either of 1116 principal lines. Thus, in the
+figure, the given lines cut AB in the points A, E, G, and cut BC in the
+points R, S, T.
+
+Now, since all the angles of the triangle ΑΗΒ 316 l<nown‚[⁴¹⁷³l the ratio
+between the sides AB and BR is l<1iown.[⁴⁴] If we 161 AB :BRzz .·b,
+
+since AB εἴ, we have RB = l'51 ,· and since B lies between C and R ¹⁴⁸¹,
+
+we have CRzy—l— κς. (When R lies between C and Β, CR is equal
+
+to y - (³5, and when C lies between B and R, CR is equa] to—31 -l· ἐξ l
+
+Again, the three angles of the triangle DRC are 1<110wn‚1⁴⁶¹ and there-
+
+fore the ratio between the sides CR and CD is determine-d. Calling this
+
+. . bx [ι’ bcsr .
+13110 είς, 511166 ΕΗΞΝ-Ι-ῖ, we have CD: ᾗ -f- 5· Then, 511166
+
+¹⁴³] Since BC 61115 ΑΒ and AD under given angles.
+
+¹⁴⁴¹ Since the ratio of the sines of the opposite angles is known.
+[⁴⁵¹ In this particular figure, of course.
+
+[⁴⁶¹ Since CB and CD cut AD under given angles.
+
+29
+

@@ -1,0 +1,52 @@
+SECOND BOOK
+
+coniplicated1⁹⁸¹ than many curves of the same class, cannot be placed
+in the first class.¹⁹¹¹
+
+Having now made a general classification of curves, it is easy for me
+to demonstrate the solution which I have already given of the prob- >
+lem of Pappus. For, first, I have shown that when there are only three
+or four lines the equation which serves to determine the required
+points[⁹⁵¹ is of the second degree. It follows that the curve containing
+these points must belong to the first class, since such an equation
+expresses the relation between all points of curves of Class I and all
+points of a fixed straight line. When there are not more than eight
+given lines the equation is at most a biquadratic‚ and therefore the
+resulting curve belongs to Class H or Class Ι. When there are not
+more than twelve given lines, the equation is of the sixth degree or
+lower, and therefore the required curve belongs to Class ΙΙΙ or a lower
+
+class, and so on for other cases.
+
+Now, since each of the given lines may have¹ any conceivable posi-
+tion, and since any change in the position of a line produces a corre-
+sponding change in the values of the known quantities as well as in
+the signs -Ι- and -— of the equation, it is clear that there is no curve
+of Class I that may not furnish a solution of this problem when it
+relates to four lines, and that there is no curve of Class ΙΙ that may not
+furnish a solution when the problem relates to eight lines, none of
+Class ΠΙ when' it relates to twelve lines, etc. It follows that there is
+no geometric curve whose equation can be obtained that may not be
+
+used for some number of lines.¹⁹⁶¹
+
+It is now necessary to determine more particularly and to give the
+method of finding the curve required in each case, for only three or
+
+¹⁹³] “Pas tant d'e'tendue.” Cf. Rabuel, p. 113. “Pas tant d’e'tendue en leur
+puissance.’' ‚
+
+[⁹4³ Various methods of tracing curves were used by writers of the seventeenth
+century. Among these there were not only the usual method of plotting a curve
+from its equation and that of using strings, pegS, etc.‚ as in the popular construc-
+tion of the ellipse, but also the method of using jointed rulers and that of using
+one curve from which to derive another, as for example the usual method of
+describing the cissoid. Cf. Ralniel, p. 138.
+
+[⁹⁵¹ That is, the equation of the required locus.
+
+¹⁹⁶¹ “En sorte qu'il n'y a pas une ligne courbe qui tombe sous le calcul & puisse
+etre receue en Geometrie, qui n’y soit utile pour quelque nombre de lignes.”
+
+59
+

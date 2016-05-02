@@ -1,0 +1,53 @@
+GEOM ETRY
+
+1 could give here several other ways of tracing and conceiving a
+
+series of curved lines, each curve more complex than any preceding
+onef⁷⁶¹ but Ι think the best way to group together all such curves and
+then classify them in order, is by recognizing the fact that all points of
+those curves which we may call “geometric‚'' that is, those which admit
+of precise and exact measurement, must bear a definite relation¹⁷⁷l to
+
+all points of a straight line, and that this relation must be expressed by
+
+[75⁸]
+
+means of a single equation. If this equation contains no term of
+
+higher degree than the rectangle of two unknown quantities, or the
+square of one, the curve belongs to the first and simplest class‚¹⁷”] which
+contains only the circle, the parabola. the hyperbola, and the ellipse:
+
+but when the equation contains one or more terms of the third or fourth
+
+[ευ]
+
+degree in one or both of the two unknown quantitieslffl] (for it
+
+requires two unknown quantities to express the relation between two
+points) the curve belongs to the second class: and if the equation con-
+tains a term of the fifth or sixth degree in either or both of the unknown
+quantities the curve belongs to the third class, and so on indefinitely.
+
+¹⁷⁰¹ “Qui seroient de plus en plus composees par degrez a l'infini.’' The French
+quotations in the footnotes show a few variants in style in different editions.
+
+[⁷⁷] That is, a relation exactly known, as, for example, that between two straight
+lines in distinction to that between a straight line and a curve, unless the length
+of the curve is known.
+
+1⁷³¹st will be recognized at once that this statement contains the fundamental
+concept of analytic geometry.
+
+[π’] “Du premier ἅ plus simple genre.” an expression not now recognized. As
+now understood. the order or degree of a plane curve is the greatest number of
+points in which it can be cut by any arbitrary line. while the class is the greatest
+number of tangents that can be drawn to it from any arbitrary point in the plane.
+
+1⁸⁰] Grouped together because an equation of the fourth degree can always be
+transformed into one of the third degree.
+
+[εἰ] Thus Descartes includes such ternis as 2⁴²3& ‚2¹2y2, . . as well as ‚vr-”3 ψ .....
+
+48
+

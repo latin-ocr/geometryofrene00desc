@@ -1,0 +1,22 @@
+SECOND BOOK
+
+Given, for example, CD, the first conchoid of the ancients (see page
+113). Let A be its pole and BH the ruler. s'o that the segments of all
+straight lines, as CE and DE. converging toward A and included
+between the curve CD and the straight line BH are equal. Let it be
+required to find a line CG normal to the curve at the point C. In try-
+ing to find the point ou BH through which CG must pass (according
+to the method just explained). we would involve ourselves in a calcula—
+tion as long as, or longer thau any of those just given. and yet the
+resulting construction would be very simple. For we need only take
+CF on CA equal to CH, the perpendicular to BH: then through F
+draw FG parallel to BA aud equa] to EA, thus determining the point
+G, through which the required line CG must pass
+
+To show that a consideration of these curves is not without its use,
+and that they have diverse properties of no less importance than those
+of the conic sections Ι shall add a discussion ot' certain ovals which you
+will find very useful in the theory of catoptrics and dioptrics. They
+
+115
+

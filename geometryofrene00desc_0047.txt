@@ -1,0 +1,49 @@
+FI RST BOOK
+
+plest, and yet was not the most iinportant.¹³⁸¹ This led me to try to find
+out whether, by my own method, I could go as far as they had gonew
+
+First. Ι discovered that if the question be proposed for only three,
+four, or five lines, the required points can be found by elementary
+geometry, that is, by the use of the ruler and compasses only, and the
+application of those principles that Ι have already explained, except
+in the case of five parallel lines. In this case, and in the cases where
+there are six, seven, eight, or nine given lines, the required points can
+always be found by means of the geometry of solid loci,¹⁴⁰¹ that is, by
+using some one of the three conic sections. Here, again, there is an
+exception in the case of nine parallel lines. For this and the cases of
+ten, eleven, twelve‚ or thirteen given lines. the required points may be
+found by means ot‘ a curve of degree next higher than that of the conic
+sections. Again, the case of thirteen parallel lines must be excluded
+for which, as well as for the cases of fourteen, fifteen, sixteen, and
+seventeen lines, a curve of degree next higher than the preceding must
+be used: and so on indefinitely.
+
+Next, Ι have found that when only three or four lines are given, the
+required points lie not only all on one of the conic sections but some-
+times on the circumference of a circle or even on a straight line.¹⁴¹¹
+
+When there are five, six, seven, or eight lines. the required points
+lie on a curve of degree next higher than the conic sections, and it is
+impossible to imagine such a curve that may not satisfy the conditions
+of the probleni; but the required points may possibly lie on a conic
+section‚ a circle, or a straight line. If there are nine, ten, eleven, or
+twelve lines, the required curve is only one degree higher than the pre-
+ceding, but any such curve may meet the requirements. and so on to
+infinity.
+
+[³⁵¹ See lines 5-10 from the foot of page 23.
+
+[³⁹] Descartes gives here a brief summary of his solution. which he amplifies
+later.
+
+¹⁴⁰³ This term was commonly applied by matheinaticians of the seventeenth cen-
+tury to the three conic sections, while the straight line and circle were called plane
+
+loci, and other curves linear loci. See Fermat, Isagyoye ad Locos Planos et Solidos,
+Toulouse, 1679.
+
+¹⁴¹¹ Degen'erate or limiting forms of the conic sections.
+
+25
+

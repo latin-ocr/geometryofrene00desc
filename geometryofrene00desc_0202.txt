@@ -1,0 +1,43 @@
+G EO M ETRY
+
+This shows that αῗ-ᾕ-σ2 is the required root, which can easily be proved
+by multiplication.
+
+But when no binomial divisor of the proposed equation can be found,
+it is certain that the problem depending upon it is solid,[²¹⁸¹ and it is then
+as great a mistake to try to construet it by using only circles and straight
+lines as it is to use the conic sections to construet a problem requiring
+only circles; for any evidence of ignorance may be termed a mistake.
+
+Again, given an equation in which the unknown quantity has four
+
+dimensions.[²¹⁹¹ After removing any surds or fractions, see if a binomial
+having one term a factor of the last term of the expression will divide
+the left member. If such a binomial can be found, either the known
+quantity of the binomia] is the required root, or‚[²²⁰¹ after the division is
+performed, the resulting equation, which is of only three dimensions,
+must be treated in the same way. If no such binomia] can be found.
+we must increase or diminish the roots so as to remove the second term,
+in the way already explained, and then reduce it to another of the third
+
+degree, in the following manner: Instead of
+
+,2¹4 ss px² ss (μ’ ss r = O
+write
+ff ss 2l⁷3¹⁴ ψ (ff ss 4rh'2 — ι]2 = ΟΨ]
+
+[²¹³¹ That is, that it involves a conic or some highcr curve.
+[²¹⁹¹ Α biquadratic equation.
+[²²⁰¹ “Either, or,'' as in the original. It is like saying that the root of x2-—a210
+
+is either x z a or ,τ z -α,
+[²²¹¹ Descartes wrote substantially “Instead of
+
+· -l- .2‘4*. p.2·x.q.2⁴.r χ) O
+write
+÷x⁰·2l⁷.x·⁴† (pp-4¹²)xy ——qq »ο Ο.”
+
+The symbolism is characteristic of Descartes.
+
+180
+

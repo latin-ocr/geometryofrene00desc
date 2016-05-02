@@ -1,0 +1,58 @@
+GEO M ET RY
+
+It should also be noted that all parts of a single line should always
+be expressed by the same number of dimensions, provided unity is not
+determined by the conditions of the problem. Thus, (13 contains as
+many dimensions as ab² or b·⁹'‚ these being the component parts of the
+
+line which Ι have called x'Vass—bh—kdb? It is not, however. the same
+thing when unity is determined‚ because unity can always be under-
+stood, even where there are too many or too few dimensions; thus, if
+it be required to extract the cube root of (ΗΡ — b. we must consider the
+quantity a²b² divided once by unity, and the quantity b multiplied twice
+by unity.[⁷¹
+
+Finally, so that we may be sure to remember the names of these lines,
+a separate list should always be made as often as names are assigned
+or changed. For example. we may write, AE=L that is AB is equal
+to 1 :¹⁸¹ GHza, BD: b, and so on.
+
+If, then, we wish to solve any problem. we first suppose the solution
+already effected.¹⁹] and give names to all the lines that seem needt'ul for
+its construction,—to those that are unknown as well as to those that
+are known.¹¹⁰¹ Then, making no distinction between known and unknown
+lines, we must unravel the difficulty in any way that shows most natur-
+
+1⁷1Descartes seems to say that each term must be of the third degree, and that
+therefore we must conceive of both a2b² and b as reduced to the proper dimension.
+
+¹⁸¹ Van Schooten adds “seu unitati,'’ p. 3. Descartes writes, AB301. He
+seems to have been the first to nse this symbol. Among the few writers who fol-
+lowed him, was Hudde (1633-1704). It is very commonly supposed that 00 is a
+ligature representing the first two letters (or diphthong) of “aequare'' See. for
+example. M. Aubry's note in W. W. R. Ball's Recrdations Mathffmatiques et Prob-
+Ii'mcs des Temps Amicus et Moderncs, French edition, Paris, 1909, Part ΙΙΙ, p. 164. Α
+
+[⁹] This plan, as is well known. goes back to Plato. It appears in the work of
+Pappus as follows: “In analysis we suppose that which is required to be already
+obtained. and consider its connections and antecedents, going back until we reach
+either something already known (given in the hypothesis), or else some fundamen-
+tal principle (axiom or postulate] of mathematics.'' Puppi Alexandrini Collectiones
+quae supersunt e libris maizu scriptis edidit Latina interpellatione et commentariis
+instruxit Fredericus Hultsch„ Berlin, 1876-1878; volt H. p. 635 (hereafter referred
+to as Pappus). See also Commandinus, Puppi Alexandrini Mathmnaticae Collec-
+tiones. Bologna‚ 1588. with later editions.
+
+Pappus of Alexandria was a Greek mathematician who lived about 300 AD.
+His most important work is a mathematical treatise in eight books, of which the
+first and part of the second are lost. This was made known to modern scholars
+hy Commandinus. The work exerted a happy influence on the revival of geometry
+in the seventeenth century. Pappus was not himself a mathematician οἱ the first
+rank. but he preserved for the world many extracts or analyses of lost works, and
+by his commentaries added to their interest.
+
+[¹⁰¹ Rabuel calls attention to the use of a, b, c, for known. and x, 3¹, 5,
+sor unknown quantities (p. 20).
+
+6
+

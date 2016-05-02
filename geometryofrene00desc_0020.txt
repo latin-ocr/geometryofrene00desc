@@ -1,0 +1,29 @@
+TABLE OF CONTENTS
+
+That both the true and the false roots may be real or imaginary ............. 380
+The seduction of cubic equations when the problem is plane ................. 380
+The method of dividing an equation by a binomial which contains a root ..... 381
+Problems which are solid when the equation is cubic ........................ 383
+The seduction of equations of the fourth degree when the problern is plane.
+Solid problems .................................................... 383
+Example showing the use of these reductions ............................... 387
+General rule for reducing equations above the fourth degree ................. 389
+General method for constructing all solid problems which reduce to an equa-
+tion of the third or the fourth degree ................................ 389
+The finding of two mean proportionals .................................... 395
+The trisection of an angle ................................................ 396
+That all solid problems can be reduced to these two constructions ............. 397
+The method of expressing all the roots of cubic equations and hence of all
+equations extending to the fourth degree ............................ 400
+
+Why solid problems cannot be constructed without conic sections, nor those
+problems which are more complex without other lines that are also rnore
+
+com lex ........................................................... 401
+General mithod for constructing all problems which require equations of de-
+
+gree not higher than the sixth ....................................... 402
+The finding of four mean proportionals .................................... 411
+
+xii
+

@@ -1,0 +1,48 @@
+SECOND BOOK
+
+reject circles and straight lines, since these cannot be described on
+paper without the use of compasses and a ruler‚ which may also be
+termed instruments. It is not because the other instruments, being
+more complicated than the ruler and compassos, are therefore less
+accurate, for if this were so they would have to be excluded from
+mechanics, in which accuracy of construction is even more important
+than in geometry. In the latter, exactness of reasoning alone¹⁶²¹ is
+sought‚ and this can surely be as thorough with reference to such lines
+as to simpler ones.¹‘³⁴¹ I cannot believe, either, that it was because they
+did not wish to make more than two postulates, namely, (1) a straight
+line can be drawn between any two points, and (2) about a given center
+
+a circle can be described passing through a given point. In their treat--
+ment of the conic sections they did not hesitate to introduce the assump-
+tion that any given cone can be cut by a given plane. Now to treat all
+the curves which Ι mean to introduce here, only one additional assump-
+tion is necessary, namely, two or more lines can be moved, one upon
+the other, determining by their intersection other curves. This seems
+to me in no way more difficult.¹⁶⁵¹
+
+It is true that the conic sections were never freely received into
+ancient geometry,¹⁶⁶¹ and I do not care to undertake to change names
+confirmed by usage: nevertheless, it seems very clear to me that if we
+make the usual assumption that geometry is precise and exact, while
+mechanics is not :¹⁶⁷¹ and if we think of geometry as the science which
+furnishes a general knowledge of the measurement of all bodies, then
+we have no more right to exclude the more complex curves than the
+simpler ones, provided they can be conceived of as described by a con-
+tinuous motion or by several successive motions, each motion being
+completely determined by those which precede; for in this way an exact
+knowledge of the magnitude of each is always obtainable.
+
+¹⁶³¹ An interesting question of modern education is here raised, namely. to what
+extent we should insist upon accuracy of construction even in elementary geometry.
+
+¹⁶⁴¹ Not only ancient writers but later ones, up to the time of Descartes, made
+the same distinction; for example, Vieta. Descartes's view has been universally
+accepted since his time.
+
+¹⁶⁶¹ That is, in no way less obvious than the other postulates. ⁸
+
+[⁶⁶] Because the ancients did not believe that the so-called constructions of the
+conlffeffescitlzcgrgsipsssanggaggsssitssrlgafg cegitiaerggteaiiilciileal line, plane, and so on.
+
+43
+

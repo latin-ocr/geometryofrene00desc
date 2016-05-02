@@ -1,0 +1,57 @@
+THIRD BOOK
+
+write in the dividend (for the opposite sign from that obtained by the
+multiplicatiori must always be used). Adding --ΙΞΛῃν2 and —43'2 Ι
+have —1283v². Dividing this by —16 Ι have —1—8y2 in the quotient, and
+multiplying by y² Ι have —8y4 to be added to the corresponding term.
+—8y4‚ in the dividend. This gives —16324 which divided by —16 yields
+-l-y‘* in the quotient and —y6 to be added to —1—3·⁰ which gives zero, and
+shows that the division is finished.
+
+If, however. there is a remainder, or if any modified term is not
+
+exactly divisible by 16, then it is clear that the binomial is not a
+divisor.[²¹⁶¹
+
+Similarly‚ given'
+ψ ÷ <ep — <1⁴²st — α6 i
+— 2c² -Ι- 545 — 204625 = O,
+— a²c4
+the last term is divisible by a, αἳ, αΖ-Ι-εῗ, etQ—(1⁶⁴², and so on, but only
+two of these need be considered, namely (1² and a2—l—c‘2. The others give
+a term in the quotient of lower or higher degree than the known qnan-
+tity of the next to the last term, and thus render the division impos-
+sible.[²¹⁷³ Note that Ι ani here considering ΝΘ as of the third degree,
+since there are no terms in 3²⁵· yss. or Ν. Trying the binoniial
+
+γ’) - α2 - c² Ξ O
+we find that the division can be performed as follows:
+
+-l-y6-l- (1²1⁴ 4—-a4 1- 2— [1⁶]
+—y6—2525y4—C4 §js—9421
+
+ 
+
+ 
+
+ 
+
+ 
+
+mac }‚=O
+O—ZaZO— 4—a4 l '2— a2c⁴l
+,ἱ- [²53⁷ -aaelesj — (lg-rs?
+-a -c- -a*-c
+÷y⁴ ÷2a2l ,ρψιιξ 1,Ο
+- [21 -1-αὟ S '
+
+[²¹⁶] This is evidently a modified form of our modern “synthetic division,'' the
+basis of our “Remainder Theorem‚'' and of Horner's Method of solving numerica}
+equations, a method known to the Chinese in the thirteenth century. See Cantor,
+Vol. 11(1)‚ pp. 279 and 287. See also Smith and Mikami, Hisloa'y of Japanese
+Matlzematics‚ Chicago, 1914; Sinith, Ι, 273.
+
+[²¹⁷] This is not a general rule.
+
+179
+

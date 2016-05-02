@@ -1,0 +1,43 @@
+GEo M ETRY
+
+Probably the real explanation of the refusal of ancient geometers to
+accept curves more complex than the conic sections lies in the fact that
+the first curves to which their attention was attracted happened to be
+the spiral‚¹⁶⁸¹ the quadratrix,¹“‘⁴¹ and similar curves, which really do
+belong only to mechanics‚ and are not among those curves that Ι think
+should be included here, since they must be conceived of as described
+by two separate movements whose relation does not admit of exact
+determination. Yet they afterwards examined the conclioid‚[⁷⁰¹ the
+cissoid,¹⁷¹³ and a few others which should be accepted; but not knowing
+much about their properties they took no more account of these than
+of the others. Again, it may have been that, knowing as they did only
+a little about the conic sections.¹⁷²] and being still ignorant of many of
+the possibilities of the ruler and compasses‚ they dared not yet attack
+a matter of still greater difficulty. Ι hope that hereafter those who are
+elever enough to make use of the geometric methods herein suggested
+will find no great difficulty in applying them to plane or solid problems.
+I therefore think it proper to suggest to such a more extended line of
+investigation which will furnish abundant opportunities for practice.
+
+Consider the lines AB„ AD, AF, and so forth (page 46), which we
+may suppose to be described by means of the instrument YZ. This
+instrument consists of several rulers hinged together in such a way that
+YZ being placed along the line AN the angle XYZ can be increased or
+decreased in size, and when its sides are together the points B, C, D,
+E, F, G, H, all coincide with A; but as the size of the angle is increased,
+
+[Ν 566 Heath, History of Greek Mcztliematics (hereafter referred to as Heath).
+Cambridge, 2 vols, 1921. Also Cantor, l'orleszmgsen iiber Geschichte der Mathe-
+matik‚ Leipzig. Vol. Ι (2), o. 263, and Vol. Π (1), pp. 765 and 781 (hereafter
+referred to as Cantor).
+
+[⁰²³¹ See Heath‚ Ι, 225; Smith, Vol. H, pp. 300, 305.
+
+[ΤΟ] 566 Heath, I, 235, 2383 Smith, Vol. II, p. 298.
+
+¹⁷¹] See Heath‚ Ι, 264; Sinith, Vol. II, p. 314.
+
+[⁷²¹ They really knew much more than would be inferred from this statement.
+In this connection, see Taylor, Ancicnt and Modern (ieonzetry of Conics, Cam-
+bridge, 1881.
+

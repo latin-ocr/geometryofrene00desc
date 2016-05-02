@@ -1,0 +1,47 @@
+GEOM ETRY
+
+ellipse ¹and hyperbola are described in La Dioptriqne.¹¹⁶⁶¹ But Ι cannot
+give any further attention to this subject.
+
+Athough these ovals seem to be of almost the same nature, they
+nevertheless belong to four different classes, each containing an infinity
+of sub-classes, each of which in turn contains as many different kinds
+as does the class of ellipses or of hyperbolas: the sub-classes depend-
+ing upon the value of the ratio of AS to A6. Then, as the ratio of AF
+to AG, or of AF to AH changes, the ovals of each sub-class change in
+kind, and the length of AG or AH determines the size of the oval.¹¹⁶⁷¹
+
+If AS is equal to A6. the ovals of the first and third classes become
+straight lines: while among those of the second class we have all pos-
+sible hyperbolas, and among those of the fourth all possible ellipses.¹¹⁶⁸¹
+
+In the case of each oval it is necessary further to consider two por-
+tions having different properties. In the first oval the portion toward
+A (see page 114) causes rays passing through the air from F to con-
+verge towards G upon meeting the convcx surface lAl of a lens
+whose index of refraction, according to dioptrics‚ determines such
+
+ratios as that of AS to Af), by means of which the oval is described.
+
+[Μ] See the notes on pagcs 10, 55, 112.
+
+[¹⁰⁷¹ Compare the changes in the ellipse and hyperbola as the ratio of the length
+of the transverse axis to the distance between the foci changes.
+
+[¹⁶⁸¹ These theorems may be proved as follows: (1) Given the first oval, with
+A51A6;then RAzGA; FP:F5; GP:R6: AR—R6: GA—A51G5.
+Therefore FP÷GP Ξ F5-l-G5. That is, the point Ρ lies on the straight line FG.
+(2) Given the second oval, with AS Ξ A6; then F2 z FS z FA÷A5;
+(32:- 86: SA-l-A6: SA-l-A5; GZ——FZ—-SA—FAzGA—FAzC. There-
+fore 2 lies on a hyperbola whose foci are F and G, and whose transverse axis is
+GA—FA. The oroof for the third oval is analogous to (1) and that for the
+fourth to (2).
+
+It mav be noted that the first oval is the same curve as that described on
+page 98. For FP Ξ F5, whence FP — AF z AS, and AR z AG: GP z R6;
+AG— GP z A6. If then AS : A6zd : e we have, as before,
+
+FP—AF 2 AG—szd 2 e.
+
+124
+

@@ -1,0 +1,32 @@
+(313031 ETRY
+
+Nevertheless‚ since strings can bc used in these constructions only to
+determine lines whose lcngths are known, they need not be wholly
+excluded.
+
+When the relation between all points of a curve and all points of a
+straight line is k1iow11,[¹³⁷¹ in the way I have already explained, it is easy
+to find the relation between the points of the curve and all other given
+points and lines; and from these relations to find its diameters‚ axes,
+center and other lines¹¹³⁸¹ or points which have especial significance for
+this curve, and thence to conceive various ways of describing the curve,
+and to choose the easiest.
+
+By this method alone it is then possible to find out all that can be
+and there is 110 need
+
+[120]
+
+determined about the magnitude of their areas,
+
+for further explanation from me.
+
+¹¹³⁷] Expressed by means of the equation of the curve.
+
+[¹³⁸¹ For example, the equations oi tangents, normals, etc.
+
+¹¹³⁰] For the history of the quadrature of curves, consult Cantor, Vol. ΙΙ (1),
+pp. 758, et seq.. smith, [θένων-ν, Vol. ΙΙ, p. 302.
+
+92
+

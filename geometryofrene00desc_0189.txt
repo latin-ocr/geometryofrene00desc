@@ -1,0 +1,38 @@
+THIRD BOOK
+
+two of thern, 1 and 8, being true roots. and the third, also 1, being false3
+while the other equation 314—16y³÷713ae2—432—42O=0 has only one
+true root, 2, since -1-5-3 z -f-Z, and three false roots, 5, 6, and 7.
+
+Now this method of transforming the roots of an equation without
+determining their values yields two results which will prove nseful:
+First. we can always remove the second term of an equation by dimin-
+ishing its true roots by the known quantity of the second term divided
+by the number of dimensions of the first term, if these two terms have
+opposite signs: or, if they have like signs, by increasing the roots by
+the same qua11tity.s²⁰²1 Thus, to remove the second term of the equation
+3ν4-Ι-163ν3-Ι-713ν2-4Ν-420ΞΟ Ι divide 16 by 4 (the exponent of 3¹ in
+3¹⁴), the quotient being 4. I then make 3-4 z 31 and write
+
+2⁴ — 16³³ -1— 9632 — 2565 -1- 256
+-Ι- 1633 - 19222 -Ι- 7683 - 1024
+—f— 712² — 5683 -Ι- 1136
+
+ 
+
+ 
+
+— 4: 4— 16
+7 r ff —— 420
+34 — 252² —- 603 - 36 = O.
+
+The true root of this equation which was 2 is now 6, since it has been
+increased by 4. and the false roms, 5, 6, and 7. are only 1, 2, and 3,
+
+1²⁰²]That is, by diminishing the roots by a quantity equal to the coefficient of
+
+the second term divided by the exponent of the highest power of x, with the oppo-
+site sign.
+
+167
+

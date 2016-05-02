@@ -1,0 +1,53 @@
+SECOND BOOK
+
+the ruler BC, fastened at right angles to ΧΥ at the point B, pushes
+toward Z the ruler CD which slides along YZ always at right angles.
+In like manner, CD pushes DE which slides along YX always parallel
+to BC; DE pushes EF: EF pushes FG: FG pushes GH, and so on.
+Thus we may imagine an infinity of rulers, each pushing another, half
+of thern making equal angles with YX and the rest with YZ.
+
+Now as the angle XYZ is incrcased the point B describes the curve
+AB, which is a circle: while the intersections of the other rulers,
+namely. the points D, F, H describe other curves, AD, AF, ΑΗ, of
+which the latter are more complex than the first and this more complex
+than the circle. Nevertheless Ι 566 no reason why the description of
+the first¹⁷³¹ cannot be conceived as clearly and distinctly as that of the
+circle, or at least as that of the conic sectionsz or why that of the sec-
+ond, third.¹⁷⁴³ or any other that can be thus described, cannot be as
+clearly conceived of as the first: and therefore Ι 566 no reason why
+they should not be used in the same way in the solution of geometric
+
+problems.¹⁷⁵]
+
+[⁷³¹ That is, AD.
+¹⁷⁴¹ That is, AF and AH.
+¹⁷⁵¹ The equations of these curves may be obtained as follows: (l) Let
+
+,2¹²
+
+YA z ΥΒ z a, YC z x, CD :yn YD z :; then 5 ; x: x z a, whence ,ε = ἶ,
+Α15ο :5²:2³ -Ι- ,νῗς therefore the equation of AD is .2·4 Ξ aem-2433), (2) Let
+YA z ΥΒ z a, ΥΕ z x, EF z 3¹, ΥΡ z z. Then ε : x Ξ x z YD, whence
+
+YD z “i—j. Also
+
+a«
+
+x : YD z YD ε YC, whence YC z ξ —1— x z Ξῖ .
+
+But YD : YC: YC : α, and therefore
+
+(ιχ2 (.r⁹')'2 <XX—4
+†: 3 , Or 5 Ξ -.
+2 ω α
+Also, εἳ z x2-1-3·2. Thus we get, as the equation of AF,
+<lg—⁸⁵, z ,τῖ’ -l- 3³, or ‚rs Ξ (12(,τ2 'i‘ 3¹²) ''³-
+
+(3) In the same way, it can be shown that the equation of AH is
+
+,νίζ’ z αἲ (x2 -l- 33) 5.
+See Rabuel, p. 107.
+
+47
+

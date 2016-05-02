@@ -1,0 +1,55 @@
+GEOMETRY
+
+impares vel pares multitudine, cum hcec, ut dixi, loco ad quatuor lineas
+respondeant, nullum iyitur posuerunt ita ut linea nota sit, &affl
+
+The question, then, the solution 01 which was begun by Euclid and
+carried farther by Apollonius, but was completed by no one, is this:
+
+Having three, four or more lines given in position, it is first required
+to find a point from which as many other lines may be drawn, each
+making a given angle with One of the given lines, so that the rectangle
+01 two 01 1116 111165 50 drawn shall bear a given ratio to the square 01
+1116 third (11 there be only three) ; 01 10 1116 rectangle 01 1116 011161 two
+(if there be four), or again, that the parallelepiped¹³⁵³ constructed upon
+three shall bear a given ratio to that upon the other 11νο and any given
+line (if there be five), or to the parallelepiped upon the other three (11
+there be six) ; 01 (11 there be seven) that the product obtained by mul-
+tiplying four 01 1116111 together shall bear a given ratio to the product
+01 1116 011161 three, or (11 there be eight) that the product of four 01
+1116111 511311 bear a given ratio to the product 01 1116 other 10111. Thus
+the question admits 01 extension to any number 01 111165.
+
+Then, since there is always an infinite number of different points
+satisfying these requirements, it is also required to discover and trace
+the curve containing all such points.[³⁰¹ Pappus says that when there
+are only three or four lines given, this line is one 01 1116 three conic
+sections, but he does not undertake to determine, describe, or explain
+the nature of the line required¹³⁷¹ when the question involves a greater
+number 01 lines. He only adds that 1116 ancients recognized one 01
+1116111 which they had shown to be useful, and which seemed the sim-
+
+[³⁴¹ This rather obscure passage may be translated as follows: “For in this are
+agreed those who formerly interpreted these things (that the dimensions 01 a
+figure cannot exceed three) in that they maintain that a figure that is contained by
+these lines is not comprehensible in any way. This is permissible‚ however, both
+to say and to demonstrate generally by this kind 01 proportion, and in this man-
+ner: If from any point straight lines be drawn making given angles with straight
+lines given in position: and if there be given a ratio compounded 01 them, that
+is the ratio that one 01 1116 lines drawn has to one, the second has to a second,
+the third to a third. and so on to the given line. if there be seven lines, or, 11 there
+be eight lines, 01 1116 1351 10 3 1351, 1116 point lies on the lines that are given in
+position. And similarly, whatever may be the odd or even number, since these,
+as I have said, correspond in position to the 10111· 111165; therefore they have not
+set forth any method so that a line may be known.'' The meaning 01 1116 passage
+appears from that which follows in the text.
+
+¹³⁵] That is, continued product.
+
+bl³⁰¹.It is here that the essential feature 01 1116 work 01 Descartes may be said
+to egln.
+
+1³³1 Sec line 19 on the opposite page.
+
+22
+

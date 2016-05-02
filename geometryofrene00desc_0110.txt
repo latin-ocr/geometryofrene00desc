@@ -1,0 +1,45 @@
+GEOAIETRY
+
+Next, suppose that wc have four parallel 111165, and a fifth line cutting
+them, such that the parallelepiped 01 111166 111165 drawn through the
+point C (one to the cutting line and two to two of the parallel lines)
+is equa] to the parallelepiped 01 two lines drawn through C to meet the
+other two parallels respectively and another given line. In this 6356
+
+[128]
+
+the required point 1165 011 3 curve of different nature, namely, a
+curve such that, all the ordinates to its axis being equa] to the ordinates
+01 3 601116 56611011, 1116 segments 01 1116 axis between the vertex and
+the ordinates1¹2⁰1 bear the same ratio to a certain given line that this
+line bears to the segments 01 1116 axis 01 1116 601116 56611011 having equal
+ordinates.¹¹³⁰¹
+
+Ι cannot say that this curve is 1655 simple than the preceding: indeed,
+Ι have always thought the former should be considered first, 511166 115
+description and the determination 01 115 6011311011 are somewhat easier.
+
+I shall not stop to consider in detail the curves corresponding to the
+other cases, for I have not undertaken to give 3 complete discussion of
+the subject ; and having explained the method 01 determining an infinite
+number 01 points lying on any curve, I think 1 have furnished a way
+to describe them.
+
+It is worthy 01 11016 11131 there is a great difference between this
+
+nieth0d1¹³¹¹ in which the curve is traced by finding several points upon
+
+[¹²³¹ The general equation of this curve is a.2·3·—.2·y2†202x:azy—0322.
+Rabucl‚ p. 270.
+
+¹¹²⁹] That 15, 1116 abscissas 01 points on the curve.
+
+¹¹³⁰] The thought, expressed in modern phraseology, is as follows: The curve is
+01 511611 nature that the abscissa 01 any point on it is a third proportional to the
+abscissa 01 3 point on 3 601116 56611011 whose ordinate is the same 35 11131 of the
+given point, and 3 given line. Cf. Rabuel, pp. 270, et seq.
+
+¹¹³¹] That is, the method 01 analytic geometry.
+
+88
+

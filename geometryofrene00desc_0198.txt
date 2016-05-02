@@ -1,0 +1,42 @@
+C 101( ) M ETR Y
+
+tains surds, change them as far as possible into rational numbers, either
+by multiplication or by one of several other ,methods easy enough to
+find. Second. by examining in order all the factors of the last term,
+determine whether the left member of the equation is divisible¹²¹²¹ by a
+binomial consisting of the unknown quantity plus or minus any one of
+these factors. If it is, the problcm is plane, that is, it can be constructed
+by means of the ruler and compasses3 for either the known quantity
+of the binomia] is the required root[²¹³¹ or else, having divided the left
+member of the equation by the binomial, the quotient is of the second
+
+degree. and from this quotient the root can be found as explained in
+
+the first book.¹²¹⁴¹
+Given, for example. 3¹⁶—8y4—l24y2264 Ξ O.¹²’⁶³ The last term, 64,
+
+is divisible by 1, 2, 4, 8. 16, 32, and 64: therefore we must find whether
+the left member is divisible by 312—1, 37²—l—l‚ 312—2, §1²42- 322—4, and
+so on. We shall find that it is divisible by ,ψ’-16 as follows:
+
+-Ι- 37‘5 — 83¹4 — 124372 — 64 Ξ O
+Ξ r 8³* - W
+O — 16ν4 - 1283ss
+
+ 
+
+ 
+
+—16
+
+Reginning with the last term, l divide —64 by —16 which gives —l—4;
+write this in the quotient: multiply —l—-l by —l—y2 which gives —l—4y2 and
+
+[2¹2] “Qui divise toute la sommef’
+¹²¹³] That is, the root that satisfies the conditions of the DsOblcm·
+
+1²¹⁴¹¹ See page 13.
+[²¹⁵] Descartes considers this equation as a function of 3›².
+
+176
+

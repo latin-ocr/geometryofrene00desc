@@ -1,0 +1,56 @@
+THIRD BOOK
+
+Every equation can have¹¹⁸⁴1 as many distinet roots (values of the
+
+unknown quantity) as the number of dimensions of the unknown
+quantity in the equati011.¹¹⁵⁵¹ Suppose, for example, x Ξ 2 or ,ι’-2 = O,
+and again, x: 3, or ,π’-3 ΣΟ. Multiplying together the two equa-
+tions ,r —2 ΞΟ and Δι’-3 1 O. we have -1·²—5.v÷6 = O, or χ’] = ,Μ’-6.
+This is an equation in which ‚r has the value 2 and at the same ti1ne1¹⁸⁰¹
+x has the value 3. If we next make ,ι’-420 and multiply this by
+x2—5-2-÷6=O. we have ,1r2—9.1·2÷26.1·—24=O another equationy in
+which x, having three dimensions, has also three values‚ namely‚ 2, 3,
+and 4.
+
+It often happens, however, that some of the roots are falsel¹⁸⁷¹ or less
+than nothing. Thus, if we suppose ‚r to represent the defeetsm‘q of a quan- ι
+tity 5, we have ,tul—5 Ξ O which, multiplied by .1·³—9.v²-{-26x—24 ΞΟ,
+yields x4—4ffl—19‚2·2†106.1·—12O ——- O, an equation having four roots,
+namely three true roots, 2, 3, and 4, and one false root, 5.[¹⁸⁹¹
+
+It is evident from the above that the summm of an equation having
+several roots is always divisible by a binomial consisting of the unknown
+quantity diminished by the value of one of the true roots, or plus the
+value of one of the false roots. In this way,[¹⁹¹¹ the degree of an equa-
+tion can be lowered.
+
+On the other hand, if the sum of the terms of an equatio111¹⁹²¹ is not
+divisible by a binomial consisting of the unknown quantity plus or
+
+1¹⁸⁴¹1t is worthy of note that Descartes writes “can have'' (“peut-il y avoir'')‚
+not “must have,” since he is considering only real positive roots.
+
+[¹⁸⁵] That is as the number denoting the degree of the equation.
+
+[¹³⁶¹ “Tout ense1nble.”——not quite the modern idea.
+
+[¹⁸⁷¹ “Racines fausses,” a term formerly used for “negative roots.’' Fibonaeei‚
+for example, does not admit negative quantities as roots of an equation. scritti de
+Leonardo Pisano, published by Boneompagni. Rome, 1857. Cardan recognizes
+them, but calls them “aestimationes falsae*y or “tiene'’ and attaches no special sig-
+nificance to them. See Cardan, Ars Elsaynaq, Nurnberg. 1545, p. 2. Stifel called
+them “Numeri absurdi‚'’ as also in Rudolff's Coss. 1545.
+
+[¹⁸⁵¹ “Le defautJ’ If x Ξ-Ξ, —5 is the “desem'' of 5, that is, the remainder
+when 5 is subtracted from zero.
+[¹⁸⁹] That is, three positive roots, 2, 3, and 4, and one negative root, -5.
+
+¹¹⁹⁰] “Somme,'' the left member when the right member is zero: that is. what
+we represent by ΠΜ) in the equation f('.2⁴):O.
+
+[¹⁹¹1That is. by performing the division.
+
+¹¹⁹²] “Si la somme d'un‘equation.”
+
+159
+

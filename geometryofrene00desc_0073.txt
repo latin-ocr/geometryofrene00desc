@@ -1,0 +1,32 @@
+SECOND BOOK
+
+Suppose the curve EC to be described by the intersection of
+the ruler GL and the rectilinear plane figure CNKL, whose side
+KN is produced indefinitely in the direction of C, and which, being
+moved in the same plane in such a way that its side[⁸²¹ KL always coin-
+cides with some part of the line BA (produced in both directions),
+imparts to the ruler GL a rotary motion about G (the ruler being
+hinged to the figure CNKL at L).[⁸³¹ If I wish to find out to what
+class this curve belongs, Ι choose a straight line, as AB, to which to
+refer all its points, and in AB 1 choose a point A at which to begin the
+investigation.¹⁸⁴¹ I say “choose this and that,’' because we are free to
+choose what we will, for, while it is necessary to use care in the choice
+in order to make the equation as short and simple as possible, yet no
+matter what line I should take instead of AB the curve would always
+prove to be of the same class, a fact easily de1no1istrated.¹⁵⁵¹
+
+[⁸²¹ “Diametre.”
+[⁸³¹ The instrument thus consists of three parts, (1) a ruler ΑΚ ot indefinite
+
+length, fixed in a plane; (2) a ruler GL, also of indefinite length, fastened to a
+pivot, G, in the same plane, but not on AK; and (3) a rectilinear figure BKC, the
+side KC being indefinitely long, to which the.ruler GL is hinged at L, and which
+is made to slide along the ruler GL.
+1⁸⁴] That is, Descartes uses the point A as origin, and the line AB as axis of
+abscissas. He uses parallel ordinatos, but does not draw the axis of ordinates.
+1⁸⁵¹That is, the nature of a curve is not affected by a transformation of
+
+coordinateS.
+
+51
+

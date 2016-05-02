@@ -1,0 +1,27 @@
+(JEOM ETRY
+
+Ι might add several different rules for the solution of cubic and
+biquadratie equations but they would be superfluous, since the con-
+struction of any plane problem can be found by means of those already
+given.
+
+I could also add rules for equations of the fifth, sixth, and higher
+degrees, but I prefer to consider them all together and to state the
+following general rule:
+
+First, try to put the given equation into the form of an equation
+of the same degree obtained by multiplying together two others, each
+of a lower degree. If, after all possible ways of doing this have been
+tried, none has been sucessful, then it 15 certain that the given equation
+cannot be reduced to a simpler one: and, consequendy, if it is of the
+third or fourth degree, the problem depending upon it is solid: if of
+the fifth or sixth. the problem 15 0116 degree more complex, and so
+on. I have also omitted here the demonstration of most of my state-
+ments, because they seem to me so easy that if you take the trouble
+to examine them systematieally the demonstrations will present them-
+selves to you ¹and it will be of much more value to you to learn them
+
+in that way than by reading them.
+
+192
+

@@ -1,0 +1,55 @@
+TH1RD BOOK
+
+about E as center, passing through A. Then FL and LA are the
+required mean proportionals.[²³¹¹
+
+Again‚ let it be required to divide the angle NOP, or rather,
+the circular arc ΝΩΤΡ, into three equal parts. Let ΝΩ = 1 be
+the radius of the circle, NP = q be the chord subtending the given arc,
+and ΝΩ =z be the chord subtending one-third of that arc; then the
+equation is :3³ =33¹—q. For, drawing ΝΩ, ΟΩ and OT, and drawing
+ΩΞ parallel to TO, it is obvious that ΝΟ is to ΝΩ as ΝΩ is to ΩΒ as
+ΩΒ is to RS. Since ΝΟ = 1 and ΝΩ = 3, then ΩΒ = :3² and RS = z³;
+and since NP or q lacks only RS or 3³ of being three times ΝΩ or 3, we
+have q ——- 35—53 or 33 = 33—q.[²³²¹
+
+Describe the parabola FAG so that CA, one-half its latus rectum,
+
+shall be equal to ἐὴ take CD— ἐξ* and the perpendicular DE- ὲ q;
+
+then describe the circle FAyG about E as center, passing through A.
+This circle cuts the parabola in three points, F, q, and G, besides the
+
+vertex, A. This shows that the given equation has three roots‚ namely,
+the two true roots‚ GK and qk, and one false root, FL.1²³³¹ The smaller
+
+¹²³¹] This may be shown as follows: Draw FM Δ. to EC; let FL=:. From
+2
+
+the nature of the parabola, FL²=a . AL; AL=²TZ; ffc²÷CA²=EA23 EM2—l—FM2
+
+:ffiffi ffi²=ff÷223 ffi²=fflc — FL)2= (ᾗ q-2)²;ffi2=c—L2=(AL-AC)2
+
+2² α 2. „7 2 q² 2⁴ α2
+ε(»α-ἷ) , Ε Ξῖ-ᾳε-Ι-εἳ-ῑ-ἷέ-εἳ-ί-ἶ. But EF=EA.
+
+· —cyj†cL²=gJ—qz÷ze† ²⁴—22-l· ‘E
+‘⁸ 4 4 4 α2 4
+whence 23 z a2q.
+[²³²] ᾼΝΟΩ is measured by arc NQ;
+AQNS is measured by ὲ arc ΩΡ or arc ΝΩ;
+ΛΞΩΒΞΛΩΟΤ is measured by arc QT or ΝΩ;
+·’-ΛΟΩΝ = ANQR: AQSR-
+.‘.NO: NQ: NQ t ΩΒ z QR : RS.
+QR= 5²: RS z 253. Let OT cut NP at M.
+NP z ZNR-l-MR -- ZNQ-l-MR
+.-· 2NQ-l— MS —- RS
+z ΖΝΩ -l- ΩΤ - RS
+z 3ΝΩ - RS.
+Or q —- 32 — 33.
+Rabuel‚ p. 534.
+¹²³³] G and 9 being on the opposite side of the axis from E, and F being on the
+same side.
+
+207
+

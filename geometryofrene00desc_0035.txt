@@ -1,0 +1,61 @@
+ΕΙ RST BOOK
+
+I shall therefore content myself with the statement that if the stu-
+dent, in solving these equations, does not fail to make use of division
+wherever possible, he will surely reach the simplest terms to which
+the problem can be reduced.
+
+And if it can be solved by ordinary geometry, that is, by the use of
+straight lines and circles traced on a plane sursace‚¹¹⁰¹ when the last
+equation shall have been entirely solved there will remain at most only
+the square of an unknown quantity, equa] to the product of its root
+by some known quantity, increased or diminished by some other quan-
+tity also known.¹²⁰¹ Then this root or unknown line can easily be found.
+For example, if Ι have ,εἳ-τ az -1- b²,[²¹³ I construet a right triangle NLM
+with one side LM. equal to b, the square root of the known quan-
+tity 12², and the other side, LN, equal to ᾖα, that is, to half the
+other known quantity which was multiplied by 3, which Ι supposed to
+be the unknown line. Then prolonging MN, the hypotenuse¹²²¹ of this
+triangle. to O, so that ΝΟ is equal to NL, the whole line OM is the
+
+. [ΞΒ]
+
+required line z, This is expressed in the following way.
+
+2= ἒ αψχβ-ᾆ-αἳψ b2.
+
+But if Ι have 3¹²=—ay -Ι- b²‚ where y is the quantity whose value
+is desired, Ι construet the same right triangle NLM, and on the hypote-
+
+ 
+
+[m] For a discussion of the possibility of constructions by the compasses and
+straight edge, see Jacob Steiner, Die ycometrischen Constructionem ausgycfiihrt
+mittelst der yeraden Linie 111ch ciues festen Kreises‚ Berlin, 1833. For briefer
+treatments. consult Enriques. Fraqcn der Elementar-Geometrie, Leipzig. 1907;
+Klein. Problcms in Elemcntary Geometry, trans. by Reman and Smitlz, Boston,
+1897; Weber und Wellstein, Encxklopc'idie der Elementaren Geometrie, Leipzig,
+1907. The work by Maschemni, La gycometria del compasso, Pavia, 1797, is inter—
+esting and well known.
+
+[²⁰1That is, an expression of the form 32 z az ss b. “Esgal a ce qui se produit
+de l‘Addition, ou soustraction de sa racine multiplee par quelque quantit& connue,
+Sc de quelque autre quantite' aussy connue,” as it appears in line 14, opposite page.
+
+[²¹] Descartes proposes to show how a quadratic may be solved geometrically.
+[²²¹ Descartes says “prolongeant MN la baze de ce triangle‚” because the hypote-
+nuse was commonly taken as the base in earlier times.
+
+1²⁸¹ From the figure OM.PM z [M2. If OM z ε, ΡΜ : 2—a‚ and since
+LM z b, we have s: (s— a) z b2 or :2 z as-l- b2. Again, MN z χβὲαἳ -l- b2, whence
+
+ 
+
+ 
+
+OM z s Ξ ΟΝ -Ι- ΜΝ z ὲα-ἱ- &fbf -Ι- b2‚ Descartes ignores the second root, which
+
+is negative.
+
+13
+

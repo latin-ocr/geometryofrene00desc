@@ -1,0 +1,16 @@
+GEOMETRY
+
+If,v however, this method of tracing the curve ACN by the transla-
+tion of a parabola seems to you awkward, there are many other ways
+of describing it. We might take AB and BL as before (page 226), and
+ΒΚ equal to the latus rectum of the parabola, and describe the semi-
+circle KST with its center in RK and cutting AB in some point S.
+Then from the point T where it ends, take TV toward K equal to BL
+and join S and V. Draw AC through A parallel to SV, and draw SC
+through S parallel to 131& then C, the intersection of AC and SC will
+be one point of the required curve. In this way we can find as many
+
+points of the curve as may be desired.
+
+228
+

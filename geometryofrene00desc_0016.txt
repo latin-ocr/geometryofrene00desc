@@ -1,0 +1,38 @@
+BOOK H
+
+ΟΝ THE NATURE oF CUROED LINES
+
+What curved lines are admitted in geometry ................................ 315
+The method of (listinguishing all cnrved lines of certain classes, and of know-
+
+ing the ratios connecting their points on certain straight lines .......... 319
+There follows the explanation of the problem of Pappns mentioned in the pre-
+
+ceding book ....................................................... 323
+Solution of this problem for the case of only three or four lines ............. 324
+Demonstration of this solution. . . . . . . . . . . . . ,ζ ............................. 332
+Plane and solid loci and the method of finding them ......................... 334
+The first and simplest of all the curves needed in solving the ancient problem
+
+for the case of five lines ............................................ 335
+Geometric curves that can be described by finding a number of their points... 340
+Those which can be described with a string ................................ 340
+
+ΤΟ find the properties of curves it is necessary to know the relation of their
+Doints to points on certain straight lines. and the inethod of drawing
+
+other lines which cut them in all these points at right angles ........... 341
+General method for finding straight lines which cut given curves and make
+
+right angles with them ............................................. 342
+Exanmle of this operation in the case of an ellinse and of a parabola of the
+
+second class ....................................................... 343
+Another example in the case of an oval of the second class .................. 344
+Example of the construction of this problem in the case of the conchoid ...... 351
+Explanation of four new classes of ovals which enter into optics. . . . . . . . . . . .. 352
+The properties of these ovals relating to reflection and refraction ............ 357
+Demonstration of these properties ......................................... 360
+
+viii
+

@@ -1,0 +1,16 @@
+(jfflJM ETRY
+
+We'can even draw a straight line at right angles to this curve at a
+given point, simply by drawing a straight line in each plane normal to
+the curve lying in that plane at the foot Of the perpendicular drawn
+from the given point of the three-dimensional curve to that plane and
+then drawing two other planes, each passing through One of the straight
+lines and perpendicnlar to the plane containing it; the intersection of
+these two planes will be the required normal.
+
+And so Ι think I have omitted nothing essentia] to an understanding
+
+of curved lines.
+
+148
+

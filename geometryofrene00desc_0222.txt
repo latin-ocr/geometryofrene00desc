@@ -1,0 +1,52 @@
+GEOBAEETRY
+
+Now the circle FG can cut or touch the parabola in l, 2, 3, or 4
+points; and if perpendiculars are drawn from these points upon the
+axis they will represent all the roots of the equation, both true and
+false. If the quantity q is positive the true roots will be those perpen-
+dicfflars, such as FL, on the same side of the parabola, as E,[²²⁸¹ the
+center of the circle; while the others, as GK, will be the false roots.
+On the other hand, if q is negative, the true roots will be those on the
+
+[229]
+
+opposite side, and the false or negative roots will be those on the
+
+same side as E, the center of the circle. If the circle neither cuts noi
+touches the parabola at any point, it is an indication that the equation
+has neither a true nor a false root, but that all the roots are imagi-
+nary.[²³⁰¹
+
+This rule is evidently as general and complete as could possibly be
+desired. Its demonstration is also very easy. If the line GK thus con-
+structed be represented by z, then ΑΚ is 3², since by the nature of the
+parabola, GK is the mean proportional between ΑΚ and the latus rec-
+tum, which is l. Then if AC or {s and CD or ξφ, be subtracted from
+
+ΑΚ, the remainder is DK or EM, which is equa] to 22—{p—{ of which
+the square is
+
+zssssff—ffi÷{p½-}p÷{.
+
+And since DE = ΚΜ = ἐ q, the whole line GM =2⁴÷ {ff q, and the square
+
+ὲᾳῗ. Adding these two squares we have
+1
+
+zssae½oe÷{ffi÷{ff÷}fi÷4
+
+of GM equals 2²÷q2÷
+
+¹²²⁸] That is, on the same side of the axis of the parabola.
+
+[²²⁹] “Les fausses ou moindres que rien.” This is the first time Descartes has
+directly used this synonym.
+
+[²⁴³⁰] It may be noted that Descartes considers the cubic as a quartic having zero
+as one of its roots. Therefore‚ the circle always cuts the parabola at the vertex.
+It must then cut it in another point, since the cubic must have one real root. It
+may or may not cut it in two other points. It may cut it in two coincident points
+at the vertex, in which case the equation reduces to a quadratic.
+
+200
+

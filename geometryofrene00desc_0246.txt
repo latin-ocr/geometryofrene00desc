@@ -1,0 +1,41 @@
+GEOM ETRY
+
+point-C, the intersection of the parabola and the ruler, will describe
+the curve ACN, which is to bc used in the construction of the proposed
+problem.
+
+Having thus described the curve, take a point L in the line RK on the
+
+concave side of the parabola, and such that BL ε DE: :3th& then lay
+
+off on RK, toward B, LH equa] to alim, and from H draw HI
+perpendicular to LH and on the same side as the curve ACN. Take
+
+HI equa] to
+ῤ’- ·†- “su †—le;
+
+222² 72² 4 κί’) w J(
+
+ 
+
+which we may, for the sake of brevity, set equal to LI„ Join L and I, and
+
+72
+describe the circle LPI on LI as diameter; then inscribe in this circle
+
+ 
+
+the line LP equal to &js-*7⁵³ 4⁷4. Finally‚ describe the circle PCN about
+
+Η
+Ι as center and passing through P. This circle will cut or touch the
+curve ACN in as many points as the equation has roo1ts; and hence the
+perpendiculars CG, NR, ΩΟ, and so on, dropped from these points
+upon RK, will be the required roots. This rule never fails nor does it
+admit of any exceptions.
+For if the quantity s were so large in proportion to the others, p, q,
+
+r, t, u, that the line LP was greater than the diameter of the circle
+
+224
+

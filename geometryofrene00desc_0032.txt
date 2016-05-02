@@ -1,0 +1,63 @@
+GEOMETRY
+
+Thus; all the unknown quantities can be expressed in terms of a sin-
+gle quantity‚‘¹⁶¹ whenever the problem can be constructed by means of
+circles and straight lines, or by conic sections, or even by some other
+curve of degree not greater than the third or fourtli.[¹⁷¹
+
+But Ι shall not stop to explain this in more detail, because Ι should
+deprive you ot' the pleasure of mastering it yourself, as well as of the
+advantage of training your mind by working over it, which is in my
+opinion the principal benefit to be derived from this science. Because,
+I find nothing here so difficult that it cannot be worked out by any one
+at all familiar with ordinary geometry and with algebra, who will con-
+sider carefully all that is set forth in this treatise.[¹⁸¹
+
+¹¹⁶¹ See line 20 on the opposite page.
+[Π] Literally‚ “Only one or two degrees grcaters‘
+
+[¹⁸¹ In the Introduction to the 1637 edition of La Geonzfitrie, Descartes made
+the following remark: “In my previous writings Ι have tried to make my mean-
+ing clear to everybody; but Ι doubt if this treatise will be read by anyone not
+familiar with the books on geometry. and so Ι have thought it superfluous to repeat
+demonstrations contained in them.'’ See Oczwres de Descartesv edited by Charles
+Adam and Paul Tamiery, Paris, 1897—1910, vol. VI, p. 368. In a letter written
+to Mersenne in 1637 Descartes says: “I do not enjoy speaking in praise of myself,
+but since few people can understand my geometry‚ and since you wish me to
+give you mv opinion of it, I think it well to sav that it is all Ι could hope for.
+and that in La Dioptrique and Les Mffteores, Ι have only tried to persuade people
+that my method is better than the ordinary one. Ι have proved this in my geom-
+etry, for in the beginning Ι have solved a question which, according to Pappus,
+could not be solved by any of the ancient geometers.
+
+“Moreover, what I have given in the second book on the nature and properties
+of curved lines. and the method of examining them, is. it seems to me. as far
+beyond the treatment in the ordinary geometry, as the rhetoric of Cicero is beyond
+the a, b, c of children. . . .
+
+“As to the suggestion that what Ι have written could easily have been gotten
+from Vieta, the very fact that iny treatise is hard to understand is due to my
+attempt to put nothing in it that Ι believed to be known either by him or by any
+one else. . . . I begin the rules of my algebra with what Vieta wrote at the
+very end of his book. De emendatione (imitationum. . . . Thus. Ι begin where
+he left off.” Oenw'es de Descartcs, publiffes par Victor Coztsin, Paris, 1824, Vol.
+VI, p. 294 (hereafter referred to as Cousin).
+
+In another letter to Mersenne, written April 20, 1646, Descartes writes as
+follows: “I have omitted a number of things that might have made it (the geom-
+etry) clearer, but Ι did this intentionally. and would not have it otherwise. The
+only suggestions that have been made concerning changes in it are in regard to
+rendering it clearer to readers, but most of these are so inalicious that I am com-
+pletely disgusted with the1n.'' Cousin, Vol. IX, p. 553.
+
+In a letter to the Princess Elizabeth‚ Descartes says: “In the solution of a
+geometrical problem Ι take care, as far as possible, to use as lines of reference
+parallel lines or lines at right angles: and I use no theorems except those which
+assert that the sides of similar triangles are proportional, and that ιιι a right
+triangle the square of the hypotenuse is eoual to the suin of the squares of the
+sides. I do not hesitate to introduce several unknown quantities. so as to reduce the
+question to such terms that it shall depend only on these two theorems.’' Cousin,
+Vol. IX, p. 143.
+
+10
+

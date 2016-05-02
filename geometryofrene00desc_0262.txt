@@ -1,0 +1,26 @@
+GEOM ETRY
+
+But it is not my purpose to write a large book. Ι am trying rather
+to include much in a few words, as will perhaps be inferred from what
+I have done, if it is considered that, while reducing to a single construc-
+tion 311 the problems of one class, I have at the same time given a
+method of transforming them into an infinity of others, and thus of⁴
+solving each in an infinite number of ways3 that. furthermore, having
+constructed all plane problems by the cutting of a circle by a straight
+line, and all solid problems by the cutting of 3 circle by a parabola} and,
+finally, all that are but one degree more complex by cutting a circle by
+a curve but one degree higher than the parabola, it is only necessary to
+follow the same general method to construet all problems‚ more and
+more complex, ad infinitum; for in the case of 3 mathematical progres-
+sion, whenever the first two or three terms are given, it is easy to find
+the rest. .
+
+I hope that posterity will judge me kindly, not only as to the things
+which I have explained, but also as to those which I have intentionally
+
+omitted so as to leave to others the pleasure ot‘ discovery.
+
+[THE END]
+
+240
+

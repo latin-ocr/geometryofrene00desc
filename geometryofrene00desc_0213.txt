@@ -1,0 +1,58 @@
+THIRD BOOK
+
+tion. They would thus get an equation which could not easily be solved
+without the rule which Ι have Just explained.
+For, putting (ι for BD or CD, c for EF and ,τ for DF, we have
+
+CF = av—x, and, since CF is to FE as FD is to BF, we have
+a—x: c =.1-:BF,
+
+whence BF ——- 29¹⁷: e.
+
+a—x
+
+x and a, ,ΗΑ-αἳ, the sum of their squares, is equal to the square of the
+
+Now, in the right triangle BDF whose sides are
+
+c2'x2
+‚2‘2——2astr—l—a2
+
+ 
+
+hypotenuse‚ which is Multiplying both sides by
+
+,‡·‘·‘—2cl.t·—{—a²
+we get the equation‚
+
+x‘*—‘laxs‘†2‹12,v2-2a³.1·÷a⁴ —- c²x2‚
+or
+x4—2ax³÷ (202—c2).2·2—2a²,v†a4 = O,
+
+and by the preceding rule we know that its root, which is the length of
+the line DF, is
+
+{ra-l- xlss a²-†- {ff - χίὲίῖ- ὲαῖ-ὶ- {a ΝΜΖ-μί’).
+
+..ι
+
+ 
+
+ 
+
+If, on the other handy we consider BF, CE, or BE as the unknown
+quantity, we obtain an equation of the fourth degree. but much easier
+to solve, and quite simply obtained.[²²⁶]
+
+Again, if DG were used, the equation would be much more difficult
+to obtain, but its solution would be very simple. Ι state this simply to
+warn you that, when the proposed problem is not solid, if one method
+of attack yields a very coinplicated equation a much simpler one can
+usually be found by some other method.
+
+[²²⁰¹ Taking BF as the unknown quantity, the resulting equation is
+x4 -Ι- 2cx³ *l- (ις2 — 2412)st — 2cz²cx —- α’-ἰῑ2 z Ο.
+Rabuel, p. 487.
+
+191
+

@@ -1,0 +1,29 @@
+GEO M ETRY
+
+Then Ι take on the curve an arbitrary point, as C, at which we will
+suppose the instrument applied to describe the curve. Then Ι draw
+through C the line CB parallel to GA. Since CB and BA are unknown
+and indeterminate quantities‚ I shall call one of them N and the other x.
+To the relation between these quantities Ι must consider also the known
+quantities which determine the description of the curve. as CA, which
+Ι shall call a: KL, which Ι shall call b; and NL parallel to (ΞΑ, which
+
+I shall call c. Then Ι say that as NL is to LK, or as c is to b, so CB, or
+
+y, is to RK, which is therefore equal to gy. Then BL is eqnal to
+
+g3r—b, and AL is equa] to x -Ι- ξ y—b. Moreover‚ as CB is to LE,
+
+that is. as 31 is to Ξ ‚xv—b. so AG or a is to LA or x—l-} y—b. Multi-
+
+plying the second by the third, we get {ky — ab equal to
+
+b
+xyl-fo—bm
+
+which is obtained by intiltiplying the first by the last. Therefore, the
+
+required equation is
+
+ff=w—{w†w—w
+
